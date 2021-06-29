@@ -29,7 +29,6 @@
 * [Client-side validation](glossary/client-side-validation.md)
 * [Deterministic Bitcoin commitments](glossary/deterministic-bitcoin-commitments.md)
 * [Generic cryptographic commitments](glossary/generic-cryptographic-commitments.md)
-* [Owned right](glossary/owned-right.md)
 * [Right](glossary/right.md)
 * [Schema](glossary/schema.md)
 * [Single-use seals](glossary/single-use-seals.md)
