@@ -13,5 +13,5 @@ This indeed does not provide _copy_ protection at technical level. But what it d
 
 That is weaker publisher guarantees comparing to DRM, but stronger comparing to any other NFT or alternative out there \(and the same strong guarantees as with software licenses back in old days\).
 
-At the end of the day, arguably, there is a probability that if we take game theory & economy into account \(and not only technical means\) that will still give _more_ profit to the content producers because we remove intermediaries \(lables/distributors\) taking 90% of profitability from the equation + provide economic incentives to pay to owners, and not cheating content users. But it will be interesting to see what @sabina\_sa thinks of that \(she is economist/game theory expert\).
+At the end of the day, arguably, there is a probability that if we take game theory & economy into account \(and not only technical means\) that will still give _more_ profit to the content producers because we remove intermediaries \(lables/distributors\) taking 90% of profitability from the equation + provide economic incentives to pay to owners, and not cheating content users.
 

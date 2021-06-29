@@ -24,7 +24,7 @@ From technical standpoint, Schema describes actual requirements for the state tr
 
 * Types of state transitions
 * Types of seals transitions
-* Semantics for state and Simplicity scripts for validating the state
+* Semantics for state 
 * Semantics for metadata
 * Referenced Simplicity script modules
 * Additional constraints on each type of state transition:

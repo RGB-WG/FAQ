@@ -12,10 +12,11 @@
   * [Is it possible to create a DAO with RGB?](faq/is-it-possible-to-create-a-dao-with-rgb.md)
   * [RGB vs alternatives](faq/rgb-vs-alternatives.md)
   * [Taproot, Schnorr signatures and RGB](faq/taproot-schnorr-signatures-and-rgb.md)
+  * [With what RGB is compatible?](faq/with-what-rgb-is-compatible.md)
   * [Will RGB require a fork of Bitcoin or Lightning?](faq/will-rgb-require-a-fork-of-bitcoin-or-lightning.md)
-  * [Is RGB compatible with planned LN upgrades?](faq/is-rgb-compatible-with-planned-ln-upgrades.md)
   * [How is confidentiality reached in RGB?](faq/how-is-confidentiality-reached-in-rgb.md)
   * [How is safety reached in RGB?](faq/how-safety-is-reached-in-rgb.md)
+  * [What is client-side validation?](faq/what-is-client-side-validation.md)
   * [How scalable is RGB?](faq/how-scalable-is-rgb.md)
 * [🎨  RGB NFT](rgb-nft/README.md)
   * [RGB NFT vs other NFT](rgb-nft/rgb-nft-vs-other-nft.md)
@@ -25,6 +26,7 @@
 
 * [Assignment](glossary/assignment.md)
 * [Bifrost](glossary/bifrost.md)
+* [Client-side validation](glossary/client-side-validation.md)
 * [Deterministic Bitcoin commitments](glossary/deterministic-bitcoin-commitments.md)
 * [Generic cryptographic commitments](glossary/generic-cryptographic-commitments.md)
 * [Owned right](glossary/owned-right.md)
@@ -33,6 +35,7 @@
 * [Single-use seals](glossary/single-use-seals.md)
 * [State](glossary/state.md)
 * [Stash](glossary/stash.md)
+* [Witness](glossary/witness.md)
 
 ## 🙋  Community
 

@@ -24,7 +24,7 @@ As a smart contract system RGB is quite different from previous approaches, both
 
 * RGB separates the concepts of smart contract **issuer**, **state owners** and **state evolution**
 * RGB keeps the smart contract code and data offchain
-* RGB uses blockchain as a state commitment layer and Bitcoin script as an ownership control system; while smart contract evolution is defined by off-chain **schema** and Turing-complete scripting system using _Simplicity language_
+* RGB uses blockchain as a state commitment layer and Bitcoin script as an ownership control system; while smart contract evolution is defined by off-chain **schema**
 
 More about these concepts can be read in [this presentation](https://github.com/LNP-BP/FAQ/blob/master/Presentation%20slides/RGB%20%26%20Spectrum%20explanation%20for%20business.pdf).
 
