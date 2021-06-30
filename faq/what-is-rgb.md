@@ -2,6 +2,7 @@
 
 **RGB** is client-side validated state and smart contracts system operating on Layer 2 and 3 of Bitcoin ecosystem. 
 
+* RGB is **not a token protocol.** Though issuance and management of highly scalable, programmable and private assets of different sort is possible with RGB, it can be applied in many indusrtied far beyond financial world.
 * Works with **Lightning Network**
 * **No on-chain usage nor trackable footprint** because of client-validated paradigm
 * **Scales** independently from Bitcoin timechain

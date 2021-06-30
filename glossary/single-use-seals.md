@@ -1,9 +1,4 @@
 # Single-use seals
 
-**Single-use seals** is one of the 4 **main** **paradigms** used in RGB. Other 3 are:  
-- Strict encoding  
-- Cryptographic commitments  
-- Client-side verification
-
-\*\*\*\*
+**Single-use seals** - the idea of development of cryptographic commitment protocols in the direction of enabling a person to commit to a commitment. It can be created on different types of medium \(even a centralised party\). 
 

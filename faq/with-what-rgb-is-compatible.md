@@ -1,6 +1,6 @@
-# With what RGB is compatible?
+# What RGB is compatible with?
 
-RGB is comapible and interoperable with:
+RGB is compatible and interoperable with:
 
 * SegWit v0
 * Taproot \(SegWit v1\), Tapscript
