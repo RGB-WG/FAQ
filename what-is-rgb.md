@@ -1,4 +1,4 @@
-# What is RGB?
+# 💡What is RGB?
 
 * RGB is a scalable & confidential smart contracts system for Bitcoin & lightning network. They embrace concepts of private & mutual ownership, abstraction and separation of concerns and represent "post-blockchain", Turing-complete form of trustless distributed computing which does not require introduction of "tokens".
 * RGB is **not a token protocol.** Though issuance and management of highly scalable, programmable and private assets of different sort is possible with RGB, it can be applied in many indusrtied far beyond financial world.

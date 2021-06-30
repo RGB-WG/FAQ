@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome to RGB!](README.md)
-* [What is RGB?](what-is-rgb.md)
-* [RGB design principles](rgb-design-principles.md)
-* [RGB paradigms](rgb-paradigms.md)
-* [📜 RGB Smart contracts](rgb-smart-contracts/README.md)
+* [💡What is RGB?](what-is-rgb.md)
+* [⚙️ RGB design principles](rgb-design-principles.md)
+* [🎓 RGB paradigms](rgb-paradigms.md)
+* [🔖 RGB Smart contracts](rgb-smart-contracts/README.md)
   * [What is a smart contract?](rgb-smart-contracts/what-is-a-smart-contract.md)
   * [How does one program RGB smart contracts?](rgb-smart-contracts/how-does-one-program-rgb-smart-contracts.md)
   * [Do you define the validity of a state transition with Schema?](rgb-smart-contracts/do-you-define-the-validity-of-a-state-transition-with-schema.md)

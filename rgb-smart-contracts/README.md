@@ -4,5 +4,5 @@ description: >-
   transaction graph for Bitcoin and Lightning Network
 ---
 
-# 📜 RGB Smart contracts
+# 🔖 RGB Smart contracts
 

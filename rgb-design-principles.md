@@ -1,4 +1,4 @@
-# RGB design principles
+# ⚙️ RGB design principles
 
 * **Strong ownership:** smart contract operates "owned state" which have a well-defined owner\(s\). Nobody except this owner\(s\) can update the state of the contract. Contracts always define types of rights as a set of operations which may be performed over the contract and these rights are assigned to be either "public" or "owned", utilizing right-specific validation logic.
 * **Confidentiality:** data should be known only to contract participants, namely state owners, unless they decide to make them public \(disclose\). All parts of the protocol must be protected from tools like chain analysis and the protocol should not store any information in the public ledgers.

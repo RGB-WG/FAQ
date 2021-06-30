@@ -2,7 +2,7 @@
 description: Description of architecture paradigms and approaches RGB uses
 ---
 
-# RGB paradigms
+# 🎓 RGB paradigms
 
 ### RGB uses a paradigm-based approach:
 
