@@ -13,6 +13,25 @@ description: Here you will find links and agendas of RGB weekly dev calls
   
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-06-30
+
+**Agenda:**   
+1. Development and documentation updates.  
+- [https://github.com/orgs/rust-bitcoin/projects/3](https://github.com/orgs/rust-bitcoin/projects/3)  
+- [https://standards.lnp-bp.org](https://standards.lnp-bp.org)  
+- [https://strict-encoding.lnp-bp.org](https://strict-encoding.lnp-bp.org)  
+- [https://blueprint.rgb.network](https://blueprint.rgb.network)  
+- [https://www.rgbfaq.com](https://www.rgbfaq.com)  
+2. Q&A session:  
+- How to solve the double issuing problem when the issuing is private?  
+- Will there be a vanity asset id generator? \(vanity = with friendly first asset id characters\)  
+- How can AluVM optimize or control the behavior of assets in a lightning channel?  
+- Is it possible to use AluVM to write an auction contract "using sats" or bidding?  
+- Can you talk more about the decentralized data storage for RGB21? Who pays for the storage and who will pay for it in the future?  
+3.. Preliminary introduction of the research on [Sigchain and Sealchain ](https://github.com/pandora-network)carried out by Dr. Maxim Orlovsky and Pandora Core AG.  
+  
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/f2da5a9dd2fb0f26dca63edafe237666c01ed8b5)
+
 ## 2021-06-16
 
 **Agenda:**  
