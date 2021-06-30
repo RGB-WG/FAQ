@@ -8,3 +8,5 @@ description: >-
 
 ## 
 
+![](.gitbook/assets/rgb_logo_color_dark_grey.png)
+
