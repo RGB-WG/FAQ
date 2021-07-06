@@ -37,8 +37,7 @@
 
 1. Bitcoin Pro -  [https://github.com/pandoracore/bitcoin-pro](https://github.com/pandoracore/bitcoin-pro)
 2. MyCitadel Wallet: [https://github.com/mycitadel](https://github.com/mycitadel) [https://testflight.apple.com/join/ZL24hlk7](https://testflight.apple.com/join/ZL24hlk7)
-3. Repos - [https://github.com/mycitadel](https://github.com/mycitadel)
-4. Twitter - [https://twitter.com/mycitadel\_io](https://twitter.com/mycitadel_io)
-5. Telegram - [https://t.me/mycitadel](https://t.me/mycitadel)
-6. RGBex.io - [https://rgbex.io/](https://rgbex.io/)
+3. Twitter - [https://twitter.com/mycitadel\_io](https://twitter.com/mycitadel_io)
+4. Telegram - [https://t.me/mycitadel](https://t.me/mycitadel)
+5. RGBex.io - [https://rgbex.io/](https://rgbex.io/)
 
