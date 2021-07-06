@@ -4,7 +4,8 @@
 
 ### Why do we need a virtual machine?
 
-Without a virtual machine one would not be able to develop advanced forms of smart contracts which are critically important for use cases like creating algorithmical stablecoins on RGB, recreating liquidity pools, DeFi etc. While these use cases are absolutely possible from the client-side validation perspective, without a virtual machine one would be restricted by very simple embedded procedures of validating the client-side data and the only way of changing that would be to release a new protocol \(which would be incompatible with the previous one\).
+Without a virtual machine one would not be able to develop advanced forms of smart contracts which are critically important for use cases like creating algorithmical stablecoins on RGB, recreating liquidity pools, DeFi etc. While these use cases are absolutely possible from the client-side validation perspective, without a virtual machine one would be restricted by very simple embedded procedures of validating the client-side data and the only way of changing that would be to release a new protocol \(which would be incompatible with the previous one\).   
+On another note, not being able to create complex smart contracts will bring dissatisfaction with RGB from the community \(compared to the complexity that Ethereum-based solutions can offer\) and thus having our own VM is critically important for RGB adoption.
 
 Unlike many other virtual machines, AluVM is register-based and does not allow random memory access. This makes AluVM perfectly suited for such domains as smart contracts, remote code execution, distributed & edge computing because of AluVM determinism combined with unprecedented robustness and possibility of formal code analysis.
 
