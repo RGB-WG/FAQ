@@ -10,6 +10,7 @@
   * [Do you define the validity of a state transition with Schema?](rgb-smart-contracts/do-you-define-the-validity-of-a-state-transition-with-schema.md)
 * [RGB & ₿itcoin](rgb-and-bitcoin/README.md)
   * [Will RGB require a fork of Bitcoin or Lightning?](rgb-and-bitcoin/will-rgb-require-a-fork-of-bitcoin-or-lightning.md)
+  * [RGB testnet & mainnet](rgb-and-bitcoin/rgb-testnet-and-mainnet.md)
   * [Taproot, Schnorr signatures and RGB](rgb-and-bitcoin/taproot-schnorr-signatures-and-rgb.md)
   * [Does anything need to happen in Lightning or Bitcoin to enable Lightning on RGB?](rgb-and-bitcoin/does-anything-need-to-happen-in-lightning-or-bitcoin-to-enable-lightning-on-rgb.md)
   * [Is there a plan to work on channel factories?](rgb-and-bitcoin/is-there-a-plan-to-work-on-channel-factories.md)
@@ -26,6 +27,8 @@
   * [Is RGB Turing-complete?](faq/is-rgb-turing-complete.md)
   * [Does RGB require Taproot?](faq/does-rgb-require-taproot.md)
   * [What RGB is compatible with?](faq/with-what-rgb-is-compatible.md)
+  * [Will Simplicity be used in RGB?](faq/will-simplicity-be-used-in-rgb.md)
+  * [Why there is no RGB MVP with updates rolling out after?](faq/why-there-is-no-rgb-mvp-with-updates-rolling-out-after.md)
   * [How is confidentiality reached in RGB?](faq/how-is-confidentiality-reached-in-rgb.md)
   * [How is safety reached in RGB?](faq/how-safety-is-reached-in-rgb.md)
   * [What is client-side validation?](faq/what-is-client-side-validation.md)
@@ -33,9 +36,11 @@
 
 ## 📚 Glossary
 
+* [AluVM](glossary/aluvm.md)
 * [Assignment](glossary/assignment.md)
 * [Bifrost](glossary/bifrost.md)
 * [Client-side validation](glossary/client-side-validation.md)
+* [Contractum](glossary/contractum.md)
 * [Deterministic Bitcoin commitments](glossary/deterministic-bitcoin-commitments.md)
 * [Generic cryptographic commitments](glossary/generic-cryptographic-commitments.md)
 * [Right](glossary/right.md)

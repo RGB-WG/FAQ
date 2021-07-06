@@ -28,7 +28,7 @@ description: Here you will find links and agendas of RGB weekly dev calls
 - How can AluVM optimize or control the behavior of assets in a lightning channel?  
 - Is it possible to use AluVM to write an auction contract "using sats" or bidding?  
 - Can you talk more about the decentralized data storage for RGB21? Who pays for the storage and who will pay for it in the future?  
-3.. Preliminary introduction of the research on [Sigchain and Sealchain ](https://github.com/pandora-network)carried out by Dr. Maxim Orlovsky and Pandora Core AG.  
+3. Preliminary introduction of the research on [Sigchain and Sealchain ](https://github.com/pandora-network)carried out by Dr. Maxim Orlovsky and Pandora Core AG.  
   
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/f2da5a9dd2fb0f26dca63edafe237666c01ed8b5)
 
