@@ -1,0 +1,2 @@
+# Merklization commitment encoding
+

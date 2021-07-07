@@ -1,0 +1,2 @@
+# Protocol-specific entropy
+

@@ -1,6 +1,6 @@
 # Do you define the validity of a state transition with Schema?
 
-Yes. You always validate the state transition against the [Schema](../glossary/schema.md) rules. A state transition is valid only if it follows and matches the Schema rules. Thus, RGB smart contract is in a valid state if all state transitions which you know about are in a valid state.  
+Yes. You always validate the state transition against the [Schema](../glossary/schema-and-scripts/schema.md) rules. A state transition is valid only if it follows and matches the Schema rules. Thus, RGB smart contract is in a valid state if all state transitions which you know about are in a valid state.  
   
 To compare, in Ethereum the state of a given smart contract is valid if it is mined on the blockchain, and the state change of a smart contract should also be mined on the blockchain. Thus, Ethereum smart contract has a defined state known to the whole world and valid by definition because it's a part of the blockchain history. In order to update that state you need to run a specific algorithm defined and implemented in the smart contract code at the moment of its creation. It makes the options of what contract can and cannot do very restricted.   
   

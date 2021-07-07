@@ -2,7 +2,7 @@
 
 There is a big difference between the way you program RGB smart contracts and other types of blockchain-based smart-contracts \(e.g. in Ethereum\) aside from Bitcoin.  
   
-In RGB there is a thing called RGB [Schema](../glossary/schema.md) which is a set of rules that define how the states of the contract can evolve in time. But unlike Ethereum or any blockchain-based smart contract  platform, you need to program the algorithm of operations.  
+In RGB there is a thing called RGB [Schema](../glossary/schema-and-scripts/schema.md) which is a set of rules that define how the states of the contract can evolve in time. But unlike Ethereum or any blockchain-based smart contract  platform, you need to program the algorithm of operations.  
   
 In RGB, you don't program the algorithm. Smart contract in blockchain world is an imperative \(imperatively styled\) written program, that defines a certain very restricting algorithm, which hardly can be called Turing-complete if we think of all the limitations of the underlying blockchain platforms. In RGB, we don't use imperative programming, we use a very special form of functional programming where the smart contract is defined _declaratively_. So the schema is the declarative definition of a smart contract, not imperative. So the shift of paradigm in programming RGB from programming Ethereum is the same shift of paradigm, which you need to do to move from normal imperative programming to functional programming or to declarative programming.
 
