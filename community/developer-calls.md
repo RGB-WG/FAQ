@@ -13,6 +13,22 @@ description: Here you will find links and agendas of RGB weekly dev calls
   
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-07-14
+
+**Agenda:**  
+Development update and RGB Q&A session.  
+1. Category Theory resources:[ introductory course](http://math.mit.edu/~dspivak/teaching/sp18/), [additional link](https://research.protocol.ai/areas/applied-category-theory/).  
+2. Does category theory has impact on AluVM?  
+3. Is there a standard in RGB \(or bitcoin\) in denoting a utxo output e.g. in a single use seal?  
+4. Does a routing node just need to know about the asset, or do the channels have to be for that RGB asset as opposed to regular NTC LN channels?  
+5. If an asset created with RGB becomes very valuable, or you just have many of them, you might not want to have it on a lightning hot wallet. Since to move the assets, only a regular BTC signature on a PSBT is required, it should be possible to safeguard those assets in the same cold storage as your regular BTC. The only hard requirement to the cold storage is that it can sign PSBTs. I don't think there should be a problem with multisig here. But in order to be sure you sign the right thing, the cold storage should have some knowledge of the assets that are moved. How could this look like?  
+6 . If i'm reckless, can I use RGB on mainnet? Is there any precedent of issuing rgb asset on mainnet?  
+7. There is an idea to put a NFT \(the RGB equivalent\) in an Opendime to transfer some properties physically. So, on the Opendime attached on the artwork you will have the NFT certificate version of the artwork. Can it be possible with RGB NFTs?  
+8. RGB and existing Lightning Nodes implementations \(e.g. LND\).  
+9. DEX devepoment - progress update.  
+  
+🎧[ Audio recordings](https://github.com/LNP-BP/devcalls/commit/ed6a8976686ab16e84a98ea910f7bee75b438151)
+
 ## 2021-06-30
 
 **Agenda:**   
