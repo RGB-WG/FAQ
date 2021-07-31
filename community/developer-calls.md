@@ -13,6 +13,20 @@ description: Here you will find links and agendas of RGB weekly dev calls
   
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-07-21
+
+Agenda:  
+1. Presentation of 🔥[**RGB computational model \(PRISM\)**](https://www.youtube.com/watch?v=1EtNwRLE3Bc&t=3821s).  
+2. Q&A session:  
+- How badly Disclosure process exposes your privacy?  
+- If RGB smart contracts are isolated, can they still cooperate/share information between each other?  
+- If in Stash many parties can contain alternative histories, how to define which history is the true one?  
+- I believe that the RGB20 and RGB21 contracts written in rust already existed before AluVM, will there be a reimplementation of RGB20 and RGB21 in AluVM scripts?  
+- Do you have any further insight into when RGB will work on lightning?  
+etc  
+  
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/f8d11cb8f9d0e5fd38f2f3fb4476f9d0e1047b88), 🎥 [YouTube video](https://www.youtube.com/watch?v=1EtNwRLE3Bc&t=3821s), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/PRISM%20-%20RGB%20computing%20model.pdf)
+
 ## 2021-07-14
 
 **Agenda:**  
