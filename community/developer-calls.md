@@ -13,6 +13,20 @@ description: Here you will find links and agendas of RGB weekly dev calls
   
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-08-25
+
+Agenda:  
+1. Presentation of 🔥[**AluVM Assembly, compiler and linker demo**](https://youtu.be/1t0Uph5bsLo).  
+2. Q&A session  
+- How do I do to have the syntax colors for the asm in the IDE?  
+- Are there any working examples of RGB smart contracts written in Contractum?  
+  
+Links from the call:  
+- [https://github.com/pandoracore/aluasm](https://github.com/pandoracore/aluasm)  
+- [https://github.com/rgb-org/rust-rgb20](https://github.com/rgb-org/rust-rgb20)  
+  
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/5cc967a79aaef780ed9310873bd2a2cf89ef8b2f), 🎥 [YouTube video](https://youtu.be/1t0Uph5bsLo)
+
 ## 2021-07-21
 
 Agenda:  
