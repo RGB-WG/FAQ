@@ -27,6 +27,13 @@ Links from the call:
   
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/5cc967a79aaef780ed9310873bd2a2cf89ef8b2f), 🎥 [YouTube video](https://youtu.be/1t0Uph5bsLo)
 
+## 2021-08-04
+
+Agenda:  
+Presentation of 🔥 ****[**RGB programmability**](https://youtu.be/iyDCdGQ-pTY) **-** how to design and program RGB smart contracts.  
+  
+🎧 Audio recordings, 🎥 [YouTube video](https://youtu.be/iyDCdGQ-pTY), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Programmability.pdf)
+
 ## 2021-07-21
 
 Agenda:  
