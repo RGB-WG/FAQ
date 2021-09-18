@@ -6,16 +6,37 @@ description: Here you will find links and agendas of RGB weekly dev calls
 
 ## Intro
 
-🕔 Time and day - every Wednesday, 5pm CET\*  
+🕔 Time and day - bi-weekly, on Wednesdays, 5pm CET\*  
  🔗 Jitsi link to join the call [https://meet.jit.si/RGBcall1](https://meet.jit.si/RGBcall1)  
  🎧 Calls are being recorded and uploaded to the [devcalls repository](https://github.com/LNP-BP/devcalls)  
    🎥  Demos and presentations are uploaded to the [YouTube channel](https://www.youtube.com/c/LNPBP/)  
   
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-09-08
+
+**Agenda:**  
+1. Presentation on 🔥[**RGB roadmap: a way towards release**](https://youtu.be/CCfZjbaju7g).  
+2. Q&A session:  
+- Will the exchange rate be always RGB-token/BTC or you there will be RGB-token1/RGB-token2?  
+- I have the impression that MyCitadel wallet is IOS/macOS only...is that true?   
+- Do you expect any resistance to current nodes switching to Bifrost?   
+- How the main lightning implementations devs received the idea to add Bifrost to their own implementation?   
+- Do you recommend the use of rust-lightning?   
+- What is the risk of keeping all data on Bifrost instead of locally? Just fees for storage?   
+- What would be the incentive to run a Bifrost node?   
+- What happens if we do not have capacity to receive data locally are we aren't using Bifrost? Does transaction get rejected?  
+- How is the data availability ensured with some/many nodes going offline?  
+- Will MyCitadel beta be back soon? Or do you plan to release the first non beta version along with RGB in the end of the year?   
+- What happens if the client-side data is lost \(worst case scenario\)?  Would it affect any smart contract applications?   
+- To come back to the exchange rate rgb-token/BTC vs rgb-token1/rgb-token2, the principle of "coincidence of wants" would point that it would be more efficient and profitable to price anything into the hard money, aka BTC, as you would have more liquidity and that if you want to go from RGB-token1 to RGB-token2, you would have better offers if you do an indirect exchange through BTC.  
+- What are the limitations of client-side validation?  
+  
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/7695b486e5c1ee44d2a51df425ab73d800068238), 🎥 [YouTube video](https://youtu.be/iyDCdGQ-pTY), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Roadmap%202021.pdf)
+
 ## 2021-08-25
 
-Agenda:  
+**Agenda:**  
 1. Presentation of 🔥[**AluVM Assembly, compiler and linker demo**](https://youtu.be/1t0Uph5bsLo).  
 2. Q&A session  
 - How do I do to have the syntax colors for the asm in the IDE?  
@@ -25,18 +46,18 @@ Links from the call:
 - [https://github.com/pandoracore/aluasm](https://github.com/pandoracore/aluasm)  
 - [https://github.com/rgb-org/rust-rgb20](https://github.com/rgb-org/rust-rgb20)  
   
-🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/5cc967a79aaef780ed9310873bd2a2cf89ef8b2f), 🎥 [YouTube video](https://youtu.be/1t0Uph5bsLo)
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/b1d917555685ca1880741831e35c0af128e64e8c), 🎥 [YouTube video](https://youtu.be/1t0Uph5bsLo)
 
 ## 2021-08-04
 
-Agenda:  
+**Agenda:**  
 Presentation of 🔥 ****[**RGB programmability**](https://youtu.be/iyDCdGQ-pTY) **-** how to design and program RGB smart contracts.  
   
-🎧 Audio recordings, 🎥 [YouTube video](https://youtu.be/iyDCdGQ-pTY), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Programmability.pdf)
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/9e0350cfb859e3370b1e10355e9906a24d432007), 🎥 [YouTube video](https://youtu.be/6Gj4v7ZjPwQ), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Programmability.pdf)
 
 ## 2021-07-21
 
-Agenda:  
+**Agenda:**  
 1. Presentation of 🔥[**RGB computational model \(PRISM\)**](https://www.youtube.com/watch?v=1EtNwRLE3Bc&t=3821s).  
 2. Q&A session:  
 - How badly Disclosure process exposes your privacy?  
