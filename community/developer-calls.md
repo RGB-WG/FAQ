@@ -32,7 +32,7 @@ description: Here you will find links and agendas of RGB weekly dev calls
 - To come back to the exchange rate rgb-token/BTC vs rgb-token1/rgb-token2, the principle of "coincidence of wants" would point that it would be more efficient and profitable to price anything into the hard money, aka BTC, as you would have more liquidity and that if you want to go from RGB-token1 to RGB-token2, you would have better offers if you do an indirect exchange through BTC.  
 - What are the limitations of client-side validation?  
   
-🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/7695b486e5c1ee44d2a51df425ab73d800068238), 🎥 [YouTube video](https://youtu.be/iyDCdGQ-pTY), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Roadmap%202021.pdf)
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/7695b486e5c1ee44d2a51df425ab73d800068238), 🎥 [YouTube video](https://youtu.be/CCfZjbaju7g), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Roadmap%202021.pdf)
 
 ## 2021-08-25
 
