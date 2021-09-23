@@ -13,6 +13,23 @@ description: Here you will find links and agendas of RGB weekly dev calls
   
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-09-22
+
+**Agenda:**   
+Q&A session
+
+* Is the amount of UTXO, to which a specific RGB asset is assigned, a hidden or public information 
+* My question is about RGB Node, now is break for the updating in RGB Core and RGB-20, is going to be released updated soon? It's going to have much change respect what we have today, apart from adapting to changes in another libraries? 
+* What is the link between AluVM and Contractum? 
+* AluVM will be included on the next reales and be required to run RGB? How RGB-20 is impacted? Can we say AluVM is the current way to do client-side validation? 
+* Does Bitcoin Pro have to be updated for AluVM? 
+* In your opinion, what would be the better way to implement LLVM IR to AluVM bytecode? LLVM IR compiling to bytecode or \(as you mentionned in a previous call\) LLVM IR translated into ALU asm via parser? Or other way like o a Rust pest project? \(LLVM IR -&gt; Aluasm\). Same questions for WASM - AluVM 
+* Can RGB be compatible with ZK-Rollups? I understand Roll-up is not preferred. But is it viable as an immediate interim solution to bring already built solutions to RGB before pure client side validation is built? 
+* Is the unowned state is still a subject? What is it exactly? 
+* What is a valency in the context of RGB? 
+* What is the state of LNP in the scope of RGB? How is client-side validation done with LN? Is Francisco ready to dive in this? 
+* If I have RGB assets assigned to a Bitcoin UTXO and I want to run this UTXO in a CoinJoin, what will happen? Will I loose my RGB assets?  🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/fa676f4625c55c43b1e98034eb7d6fd7640c4594)
+
 ## 2021-09-08
 
 **Agenda:**  
