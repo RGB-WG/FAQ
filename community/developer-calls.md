@@ -28,7 +28,7 @@ description: Here you will find links and agendas of RGB weekly dev calls
 \- Why is it not possible to keep using a legacy channel with the legacy LN connection when you upgrade the channel to Bifrost ? What makes it impossible to "separate states" between legacy and Bifrost transactions?\
 \-  I guess ANYPREVOUT would be very nice for Bifrost? What about other possible bitcoin future softforks?\
 \
-🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/d3113b6d6f96017c757832fe9c0a40204bd434b7), 🎥 [YouTube video](https://youtu.be/CCfZjbaju7g), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Bifrost.pdf)
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/d3113b6d6f96017c757832fe9c0a40204bd434b7), 🎥[ YouTube video](https://youtu.be/fTrY74G5-G8), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Bifrost.pdf)
 
 ## 2021-09-22
 
