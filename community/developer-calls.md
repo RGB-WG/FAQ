@@ -13,6 +13,13 @@ description: Here you will find links and agendas of RGB weekly dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-11-17
+
+**Agenda:**\
+Dr. Maxim Orlovsky gives a presentation on describes 🔥[**Taproot, Bitfrost and single-use seals**](https://www.youtube.com/watch?v=B\_3ntBI8x40) - the changes that are brought by Taproot and Bifrost (Generalised Lightning Protocol) to the single-use seals and many core RGB design principles. Peter Todd, Giacomo Zucco, Federico Tenga and many others gave their feedback and approval on various matters.\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/2d94201116f65e886a69fa53175a9838ea4895db), 🎥 [YouTube video](https://youtu.be/B\_3ntBI8x40), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Taproot%20single-use-seals.pdf)
+
 ## 2021-11-03
 
 **Agenda:**
