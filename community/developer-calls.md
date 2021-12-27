@@ -1,5 +1,5 @@
 ---
-description: Here you will find links and agendas of RGB weekly dev calls
+description: Here you will find links and agendas of RGB regular dev calls
 ---
 
 # Developer calls
@@ -16,7 +16,7 @@ description: Here you will find links and agendas of RGB weekly dev calls
 ## 2021-11-17
 
 **Agenda:**\
-Dr. Maxim Orlovsky gives a presentation on describes 🔥[**Taproot, Bitfrost and single-use seals**](https://www.youtube.com/watch?v=B\_3ntBI8x40) - the changes that are brought by Taproot and Bifrost (Generalised Lightning Protocol) to the single-use seals and many core RGB design principles. Peter Todd, Giacomo Zucco, Federico Tenga and many others gave their feedback and approval on various matters.\
+Dr. Maxim Orlovsky describes 🔥[**Taproot, Bitfrost and single-use seals**](https://www.youtube.com/watch?v=B\_3ntBI8x40)**,** the changes that are brought by Taproot and Bifrost (Generalised Lightning Protocol) to the single-use seals and many core RGB design principles. Peter Todd, Giacomo Zucco, Federico Tenga and many others gave their feedback and approval on various matters.\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/2d94201116f65e886a69fa53175a9838ea4895db), 🎥 [YouTube video](https://youtu.be/B\_3ntBI8x40), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Taproot%20single-use-seals.pdf)
 
@@ -39,7 +39,7 @@ Dr. Maxim Orlovsky gives a presentation on describes 🔥[**Taproot, Bitfrost an
 
 ## 2021-09-22
 
-**Agenda: **\
+**Agenda:** \
 ****Q\&A session
 
 * Is the amount of UTXO, to which a specific RGB asset is assigned, a hidden or public information&#x20;
@@ -94,7 +94,7 @@ Links from the call:\
 ## 2021-08-04
 
 **Agenda:**\
-Presentation of 🔥** **[**RGB programmability**](https://youtu.be/iyDCdGQ-pTY)** -** how to design and program RGB smart contracts.\
+Presentation of 🔥 **** [**RGB programmability**](https://youtu.be/iyDCdGQ-pTY) **-** how to design and program RGB smart contracts.\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/9e0350cfb859e3370b1e10355e9906a24d432007), 🎥 [YouTube video](https://youtu.be/6Gj4v7ZjPwQ), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Programmability.pdf)
 
@@ -130,7 +130,7 @@ Development update and RGB Q\&A session.\
 
 ## 2021-06-30
 
-**Agenda: **\
+**Agenda:** \
 1\. Development and documentation updates.\
 \- [https://github.com/orgs/rust-bitcoin/projects/3](https://github.com/orgs/rust-bitcoin/projects/3)\
 \- [https://standards.lnp-bp.org](https://standards.lnp-bp.org)\
@@ -159,14 +159,14 @@ Presentation on 🔥[**Taproot status, its implementation in Rust Bitcoin and Li
 ## 2021-06-09
 
 **Agenda:**\
-Presentation of 🔥[**AluVM and its runtime environments**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf)****[** **](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf).\
+Presentation of 🔥[**AluVM and its runtime environments**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf)****[ **** ](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf).\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/47d8f0186e842b7ce92df607eff158dd12a5a05a), 🎥 [YouTube video](https://youtu.be/brfWta7XXFQ), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf)
 
 ## 2021-06-01
 
 **Agenda:**\
-1\. Presentation on 🔥** **[**Single-use seals concept**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf), how it is used in RGB.\
+1\. Presentation on 🔥 **** [**Single-use seals concept**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf), how it is used in RGB.\
 2\. Brief discussion on DID held as an example of how single-use seals can be applied there (with [Christopher Allen](https://twitter.com/ChristopherA) from Blockchain Commons/Blockstream joining us).\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/41f9b6cedc08f0644e1dd9c9cc2d8a55ad01a497), 🎥 [YouTube video](https://youtu.be/gGPLYfWOb\_8), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf)
@@ -192,7 +192,7 @@ etc\
 ## 2021-05-19
 
 **Agenda:**\
-Presentation of 🔥 [**AluVM **](https://youtu.be/Mma0oyiVbSE)(virtual machine developed by Dr. Maxim Orlovsky for RGB) and overall computing that can be possible with RGB & Schema.\
+Presentation of 🔥 [**AluVM** ](https://youtu.be/Mma0oyiVbSE)(virtual machine developed by Dr. Maxim Orlovsky for RGB) and overall computing that can be possible with RGB & Schema.\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/f905c1da9c60833d5773f7e44b6d57ef154c9e40), 🎥 [YouTube videos](https://youtu.be/Mma0oyiVbSE) 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20smart%20contracts%20computing%20-%20AluVM%20and%20Schema.pdf)
 
@@ -254,14 +254,14 @@ Presentation on 🔥[ **RGB Identity, Naming and Reputation**](https://youtu.be/
 3\. Virtualisation of RGB validation rules:\
 \- What is RGB client-side validation?\
 \- Schema & scripting\
-\- **Introduction of **🔥** **[**AluVM and Contractum language**](https://www.youtube.com/watch?v=JmKNyOMv68I\&ab\_channel=LNPBPStandardsAssociation)****\
+\- **Introduction of** 🔥 **** [**AluVM and Contractum language**](https://www.youtube.com/watch?v=JmKNyOMv68I\&ab\_channel=LNPBPStandardsAssociation)****\
 ****\
 ****🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/48b2a9bfea0cdc6b758f93973ea6cbd1d54f0174), 🎥 [YouTube videos](https://youtu.be/JmKNyOMv68I) 📝 [Presentation slides](https://github.com/LNP-BP/Presentations/blob/master/Presentation%20slides/RGB%20VM%20%26%20scripting.pdf)
 
 ## 2021-03-24
 
 **Agenda**\
-**NFT-related RGB Schemata & protocols **presentation: \
+**NFT-related RGB Schemata & protocols** presentation: \
 &#x20;1\. Implementation progress & updates. \
 &#x20;2\. Moving from genesis-based information transmission to consignment-based. \
 &#x20;3\. Subschemata: overview and usage in RGB20 use case. \
@@ -341,7 +341,7 @@ RGB Q\&A\
 2\. If you lend your bitcoin to some financial institution and then something happens to it, can you use the RGB-bearer right to prove that you are still the holder of bitcoin and get your funds back?
 
 DEMO\
-Demo of a command-line :fire:****[**MyCitadel node**](https://github.com/mycitadel/mycitadel-node)** **- the wallet's node and command-line interface of it.  🎥 [YouTube video](https://youtu.be/d0MjmcCmegs)\
+Demo of a command-line :fire:****[**MyCitadel node**](https://github.com/mycitadel/mycitadel-node) **** - the wallet's node and command-line interface of it.  🎥 [YouTube video](https://youtu.be/d0MjmcCmegs)\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/36f7962e18d53ac0be88b4a88af10449206b89f7)
 
@@ -349,7 +349,7 @@ Demo of a command-line :fire:****[**MyCitadel node**](https://github.com/mycitad
 
 **Agenda:** \
 RGB QA session\
-****Issues from** **[https://github.com/orgs/rgb-org/projects/11](https://github.com/orgs/rgb-org/projects/11)
+****Issues from **** [https://github.com/orgs/rgb-org/projects/11](https://github.com/orgs/rgb-org/projects/11)
 
 1. Properly handle result from 'validate' request to Stash daemon - [https://github.com/rgb-org/rgb-node/issues/132](https://github.com/rgb-org/rgb-node/issues/132)
 2. Asset state transition node ID mutability
@@ -469,14 +469,14 @@ Presentation on :fire:****[**RGB Wallets integration**](https://www.youtube.com/
 \- [RGB Node v0.2](https://github.com/LNP-BP/rgb-node/releases/tag/v0.2.0) release\
 \- [librgb v0.2 release candidate](https://github.com/LNP-BP/rgb-sdk/tree/master/librgb)\
 \- RGB SDK updates\
-3\. 💥** **[**Universal LNP/BP invoices**](https://youtu.be/R1QudCywRGk) standard proposal presentation \
+3\. 💥 **** [**Universal LNP/BP invoices**](https://youtu.be/R1QudCywRGk) standard proposal presentation \
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/e230c3f8a8ba08d1d1019852cb85935bc6cc5a2d),  🎥 [YouTube video](https://youtu.be/R1QudCywRGk) and 📝 [Presentation slides](https://github.com/LNP-BP/FAQ/blob/master/Presentation%20slides/Universal%20LNP-BP%20invoices.pdf)&#x20;
 
 ## 2020-12-09
 
 **Agenda:**\
-1\. Release of [**v0.2 of LNP/BP Core Library**](https://github.com/LNP-BP/rust-lnpbp/releases/tag/v0.2.0)** **🔥\
+1\. Release of [**v0.2 of LNP/BP Core Library**](https://github.com/LNP-BP/rust-lnpbp/releases/tag/v0.2.0) **** 🔥\
 ****2. How will Taproot affect RGB?\
 3\. Difference between Bitcoin Pro and MyCitadel wallet\
 4\. WASM & bindings of RGB SDK\
@@ -488,7 +488,7 @@ Presentation on :fire:****[**RGB Wallets integration**](https://www.youtube.com/
 ## 2020-12-02
 
 **Agenda:**\
-1\. Presentation of [**Bitcoin Pro**](https://github.com/pandoracore/bitcoin-pro)** **🔥\
+1\. Presentation of [**Bitcoin Pro**](https://github.com/pandoracore/bitcoin-pro) **** 🔥\
 2\. Technical discussion\
 [\
 ](https://github.com/LNP-BP/devcalls/commit/6eb4b4c5d69707f4f589b0ca42721df33db0da2d)🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/6eb4b4c5d69707f4f589b0ca42721df33db0da2d) and 🎥 [YouTube videos](https://youtube.com/playlist?list=PLG6aOZYXJo-99Mx-RTkmw3o5wA7PW\_gQl)
