@@ -13,6 +13,59 @@ description: Here you will find links and agendas of RGB regular dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2021-12-22
+
+**Agenda:**\
+During the call we had the **third part** of the presentation and demonstration our 🔥[**LNP Node**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20III.pdf) (Lightning Network node written in Rust🦀 ). We managed to open the first Lightning network channel from LNP Node to a remote c-Lightning; on **Bitcoin mainnet**.\
+\
+Q\&A session questions:\
+1\. When will Bifrost be released?\
+2.I noticed you recommended bip43 purpose keys - will you also support bip44 hardened keys?\
+3\. will there be a demo on the smart contract part of rgb anytime soon? if not how far away are we?\
+4\. How big is the team?\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/1754d89e048a0272461184909b80592b6a954256), 🎥 [YouTube video](https://youtu.be/8VTB37VdeSg), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20III.pdf)
+
+## 2021-12-15
+
+**Agenda:**\
+During the call we had the **second part of the presentation and demonstration our** 🔥[**LNP Node**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf) **** (Lightning Network node written in Rust 🦀 ):\
+ - technical deep dive on the node’s internals\
+\- its interoperability with LN\
+\- its connection to c-lightning node\
+\
+Q\&A session questions:\
+1\. Really interested in PTLC and how it would be possible to work with it using LNP Node.\
+2\. Is the LNP Node a prerequisite to building a Rust compiler?\
+3\. What is the reason of maintaining the backwards compatibility between Bifrost and 'legacy LN'?\
+4\. Given different primitives that would allow you to tap into Lightning for liquidity; and because of the way RGB is built, you can build a multisig and bunch of signers of a particular issuance of an asset, and then there can be someone else who can issue another type of asset and he also has the whole setup. Is there any format or way to talk across these issuances so that you could do interesting things cross-asset?\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/f66693ee6d0228eb9aa6bd3db74f168110108000), 🎥 [YouTube video](https://youtu.be/L6JlIQXbl6Y), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf)
+
+## 2021-12-08
+
+**Agenda:**\
+1\. Second part of the demo of 🔥[**Descriptor wallet**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Descriptor%20wallet%20demo%201st%20Dec%202021.pdf) **** (using Bitcoin mainnet and Taproot-enabled addresses). For more details check https://github.com/LNP-BP/descriptor-wallet\
+Transactions publicly made for the first time by the descriptor wallet, on **Bitcoin mainnet** **to 2 Taproot addresses:**\
+https://blockstream.info/tx/d4add20c23f46295763a1167044afa9e189cd91b68d3da99e737062b4f5e3202?expand\
+https://blockstream.info/tx/d4302e3f0bbfc2b89798fd672fb806b52b4fa45044a39dd5302fece65e229aa6?expand\
+\
+2\. First part of 🔥 **** [**LNP Node demo**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf) **** and presentation on its internals and changes that have been made to it over the past weeks.\
+Q\&A session questions:\
+1\. I had problems compiling to WASM in past versions, there are some plan to compile to WASM in the future?\
+2\. For next CLI devcalls. can we have the material to compile to follow your presentation?\
+\
+🎧 [Audio recordings](developer-calls.md#intro), 🎥 [YouTube video](https://youtu.be/DoNfKLLjzsY), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf)
+
+## 2021-12-01
+
+**Agenda:**\
+Dr. Maxim Orlovsky gives a presentation and the first part of demonstration of the 🔥[**Descriptor wallet with Taproot support**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Descriptor%20wallet%20demo%201st%20Dec%202021.pdf) - explained its technical architecture and used Bitcoin mainnet. Descriptor wallet repository for more details https://github.com/LNP-BP/descriptor-wallet\
+Q\&A session:\
+1\. What are input descriptors?\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/cf0053c9675a392f455bd19e16b68db54f202261), 🎥 [YouTube video](https://youtu.be/2tiD\_gnpzQ0), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Taproot%20single-use-seals.pdf)
+
 ## 2021-11-17
 
 **Agenda:**\
