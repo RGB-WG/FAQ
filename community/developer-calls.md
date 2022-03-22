@@ -13,6 +13,22 @@ description: Here you will find links and agendas of RGB regular dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2022-03-09
+
+**Agenda**:\
+1\. Presentation of a 🔥 [**dedicated fund for support of 🇺🇦Ukraine internet, mobile and mesh network infrastructure; development of alternative bitcoin- & lightning-based payment and messaging methods.**](https://youtu.be/9uI-5IAlzqo)****
+
+2\. Presentation of the **🔥**[**2022 roadmap towards a release**](https://youtu.be/9uI-5IAlzqo), pinpointing ways of how anyone can contribute.
+
+3\. Q\&A session:\
+\- NFT over LN use case\
+\- algorithmical stable coin use case\
+\- Since hashrate follows price, could hashrate or difficulty be used to peg a stablecoin? \
+\- Are there any plans for a daemon management utility for desktop or servers (without needing systemd)? \
+\- We tried to derive from the 'seed phrase' the bitcoin addresses (from descrptor wallet), but we couldn't find out which derivation path was used.  So question: how to calculate the correct descriptor wallet addresses based on the seed? \
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/1b64099503c2ec5cb7bcec149fd213daf0ae82a7), 🎥 [YouTube video](https://youtu.be/9uI-5IAlzqo), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20roadmap%20to%20release%202022.pdf)
+
 ## 2021-12-22
 
 **Agenda:**\
