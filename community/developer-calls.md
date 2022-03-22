@@ -16,7 +16,7 @@ description: Here you will find links and agendas of RGB regular dev calls
 ## 2022-03-09
 
 **Agenda**:\
-1\. Presentation of a 🔥 [**dedicated fund for support of 🇺🇦Ukraine internet, mobile and mesh network infrastructure; development of alternative bitcoin- & lightning-based payment and messaging methods.**](https://youtu.be/9uI-5IAlzqo)****
+1\. Presentation of a 🔥[ **dedicated initiative for support of 🇺🇦Ukraine internet, mobile and mesh network infrastructure; development of alternative bitcoin- & lightning-based payment and messaging methods.**](https://youtu.be/3p7gMMNIr7I)****
 
 2\. Presentation of the **🔥**[**2022 roadmap towards a release**](https://youtu.be/9uI-5IAlzqo), pinpointing ways of how anyone can contribute.
 
