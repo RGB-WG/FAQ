@@ -13,6 +13,38 @@ description: Here you will find links and agendas of RGB regular dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2022-03-22
+
+**Agenda:**\
+****Presentation of 🔥[**Deterministic bitcoin commitments and ways of how Taproot modernizes RGB.** ](https://youtu.be/7sBAtv88mSE)****\
+****1. Update - the day before rust miniscript made a first release-candidate providing full Taproot support, removing many obstacles for RGB and rust-bitcoin. Thus, we will have a sequence of releases (0.6) of all our libs that will have full Taproot support.\
+2\. Agenda to discuss:\
+a) OP\_RETURN commitment scheme,\
+b) to put all RGB commitments inside the bitcoin transaction into a single output and change the selection mechanism of determining the output in which the RGB commitment will go,\
+c) use all that to avoid interactive complexity and privacy leaks that happen in LN, conjoin, payjoin protocols.
+
+More details:\
+1\. What are DBCs, how are they different from other types of commitments (OP\_RETURN, P2C, S2c)?\
+\- is it that the hardware wallets don’t need to tweak the output now or they already need to tweak the normal Taproot tweaking in the first place, so we’re basically delegating the tweaking complexity that hardware wallets would be facing to the taproot abilities themselves, but in a way if you spend a Taproot output which the end user Tapscript with or without the OP\_RETURN inside the tap script, you will need the hardware wallet to tweak the general taproot key? \
+\
+2\. Huffman Merkle tree.\
+\- Can we just duplicate the commitment on both sides of the branch?
+
+Conclusion - it’s decided to support both OP\_RETURN and Tap\_Return.\
+\
+3\. How to construct multiparty transaction and avoid interactive protocols and RGB asset information leaks?
+
+4\. RGB workflow with DBCs.\
+\
+Questions:\
+\- Will we always use 1 input and 1 output?\
+\- Does taproot simplify the RGB wallet implementation?\
+\- How dramatic would be these improvements in terms of bitcoin blockchain space?\
+\- So, if you implement OP\_RETURN in addition to Tap\_Return, will Taproot support still be mandatory for RGB wallets?\
+\- Are there any proposals for proof-of-payment (against the third party) mechanism?
+
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/6ddf027eb7ba398d9d8ae4c01920fd76a08e1bc4), 🎥 [YouTube video](https://youtu.be/7sBAtv88mSE), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Deterministic%20bitcoin%20commitments.pdf)
+
 ## 2022-03-09
 
 **Agenda**:\
