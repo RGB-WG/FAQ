@@ -13,6 +13,35 @@ description: Here you will find links and agendas of RGB regular dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
 
+## 2022-06-29
+
+**Agenda:**\
+Presentation of 🔥[**RGB v0.8 release. Part I**](https://youtube.com/playlist?list=PLG6aOZYXJo-8feLFk4-FMn9DRG-HiB7zb)\
+1\. Few words about the LNP/BP Standards Association.\
+2\. Overview of RGB as a system:\
+\- What has been changed and what Bitcoin/LN developments are supported.\
+\- RGB layers\
+\- RGB roadmap\
+\- Roles in LNP/BP and RGB ecosystem\
+3\. Anatomy of RGB smart contracts: Schema, strict encoding, single-use seal, contract containers etc.\
+4\. AluVM, Contractum, PRISM.\
+5\. Is there a global state for the contract?\
+6\. How can I 'read contract' or 'call contract method'?\
+7\. Terminology.\
+8\. Storm network.\
+9\. LNP/BP nodes & their architecture.\
+10\. RGB v0.8 Node demo.
+
+**Questions:**\
+****1. What are the benefits in using algo stables on RGB over using them on eth-like blockchains?\
+2\. If I were to isseue an rgb20 asset. Would I be able to change user balances? In which way does a contract user need to trust the issuer?\
+3.Does RGB has a contract execution cost (re: ETH and gas)?\
+4\. Do Bifrost Taproot channels use Schnorr signature-based multisig?\
+5\. What intrinsics are available to AluVM contracts? Are timelocks possible in AluVM? Might be useful for dynamic NFTs.\
+6\. Would it make sense to support AWS S3 object storage for consignment storage?\
+\
+🎧 Audio recordings, 🎥 [YouTube video](https://youtube.com/playlist?list=PLG6aOZYXJo-8feLFk4-FMn9DRG-HiB7zb), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.8%20release%20pt%201.pdf)
+
 ## 2022-03-22
 
 **Agenda:**\
@@ -36,7 +65,7 @@ Conclusion - it’s decided to support both OP\_RETURN and Tap\_Return.\
 
 4\. RGB workflow with DBCs.\
 \
-Questions:\
+**Questions:**\
 \- Will we always use 1 input and 1 output?\
 \- Does taproot simplify the RGB wallet implementation?\
 \- How dramatic would be these improvements in terms of bitcoin blockchain space?\
@@ -383,7 +412,7 @@ Presentation on 🔥[ **RGB Identity, Naming and Reputation**](https://youtu.be/
 \- LNP/BP Association tools\
 \- Internet 2 architecture\
 \- Bitcoin Pro, Citadel SDK, MyCitadel Node, MyCitadel box, MyCitadel cloud\
-\- Introduction of 🔥 [**RGBex.io**](https://rgbex.io) - the first RGB explorer for publishing and sharing information about your assets\
+\- Introduction of 🔥 [**RGBex.io**](https://rgbex.io/) - the first RGB explorer for publishing and sharing information about your assets\
 \- Dev vacancies & Fundraising info\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/4f3c7508e47dd753777517bc4576dff3cd884d1a), 🎥 [YouTube videos](https://www.youtube.com/playlist?list=PLG6aOZYXJo--Ll2CqfoPTS0Z70fHGVGHC) 📝 [Presentation slides](https://github.com/LNP-BP/FAQ/blob/master/Presentation%20slides/Building%20RGB%20ecosystem.pdf)
