@@ -30,7 +30,7 @@ Presentation of 🔥[**RGB v0.8 release. Part I**](https://youtube.com/playlist?
 7\. Terminology.\
 8\. Storm network.\
 9\. LNP/BP nodes & their architecture.\
-10\. RGB v0.8 Node demo.
+10\. 🔥[**RGB v0.8 Node demo**](https://youtu.be/b9zjTsrslTI)****
 
 **Questions:**\
 ****1. What are the benefits in using algo stables on RGB over using them on eth-like blockchains?\
