@@ -40,7 +40,7 @@ Presentation of 🔥[**RGB v0.8 release. Part I**](https://youtube.com/playlist?
 5\. What intrinsics are available to AluVM contracts? Are timelocks possible in AluVM? Might be useful for dynamic NFTs.\
 6\. Would it make sense to support AWS S3 object storage for consignment storage?\
 \
-🎧 Audio recordings, 🎥 [YouTube video](https://youtube.com/playlist?list=PLG6aOZYXJo-8feLFk4-FMn9DRG-HiB7zb), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.8%20release%20pt%201.pdf)
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/e7717ccf8b78d27462fcb3ec78f430812fa236a3), 🎥 [YouTube video](https://youtube.com/playlist?list=PLG6aOZYXJo-8feLFk4-FMn9DRG-HiB7zb), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.8%20release%20pt%201.pdf)
 
 ## 2022-03-22
 
