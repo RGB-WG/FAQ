@@ -10,6 +10,7 @@
   * [Strict encoding](rgb-paradigms/strict-encoding.md)
 * [🔖 RGB Smart contracts](rgb-smart-contracts/README.md)
   * [What is a smart contract?](rgb-smart-contracts/what-is-a-smart-contract.md)
+  * [What is contract schema?](rgb-smart-contracts/what-is-contract-schema.md)
   * [How does one program RGB smart contracts?](rgb-smart-contracts/how-does-one-program-rgb-smart-contracts.md)
   * [Do you define the validity of a state transition with Schema?](rgb-smart-contracts/do-you-define-the-validity-of-a-state-transition-with-schema.md)
 * [☣️ RGB & ₿itcoin](rgb-and-bitcoin/README.md)
@@ -18,7 +19,7 @@
   * [Taproot, Schnorr signatures and RGB](rgb-and-bitcoin/taproot-schnorr-signatures-and-rgb.md)
   * [Does anything need to happen in Lightning or Bitcoin to enable Lightning on RGB?](rgb-and-bitcoin/does-anything-need-to-happen-in-lightning-or-bitcoin-to-enable-lightning-on-rgb.md)
   * [Is there a plan to work on channel factories?](rgb-and-bitcoin/is-there-a-plan-to-work-on-channel-factories.md)
-* [🎨  RGB NFT](rgb-nft/README.md)
+* [🎨 RGB NFT](rgb-nft/README.md)
   * [RGB NFT vs other NFT](rgb-nft/rgb-nft-vs-other-nft.md)
   * [What's the difference between RGB design of NFTs and common NFT approach?](rgb-nft/whats-the-difference-between-rgb-design-of-nfts-and-common-nft-approach.md)
 * [❓ FAQ](faq/README.md)
@@ -106,11 +107,10 @@
   * [Conceal](glossary/encodings/conceal.md)
   * [Commitment encoding](glossary/encodings/commitment-encoding.md)
 
-## 🙋  Community
+## 🙋 Community
 
 * [Developer calls](community/developer-calls.md)
 * [Presentation slides](community/presentation-slides.md)
 * [YouTube](community/youtube.md)
 * [Getting familiar with RGB](community/getting-familiar-with-rgb.md)
 * [Articles & interviews on RGB](community/articles-on-rgb.md)
-
