@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to RGB!](README.md)
-* [💡What is RGB?](what-is-rgb.md)
+* [💡 What is RGB?](what-is-rgb.md)
 * [📚 RGB Resources](rgb-resources.md)
 * [⚙ RGB design principles](rgb-design-principles.md)
 * [🎓 RGB paradigms](rgb-paradigms/README.md)
