@@ -2,7 +2,8 @@
 
 * [Welcome to RGB!](README.md)
 * [💡What is RGB?](what-is-rgb.md)
-* [⚙️ RGB design principles](rgb-design-principles.md)
+* [📚 RGB Resources](rgb-resources.md)
+* [⚙ RGB design principles](rgb-design-principles.md)
 * [🎓 RGB paradigms](rgb-paradigms/README.md)
   * [Single-use seals](rgb-paradigms/single-use-seals.md)
   * [Cryptographic commitments](rgb-paradigms/cryptographic-commitments.md)
@@ -13,7 +14,7 @@
   * [What is contract schema?](rgb-smart-contracts/what-is-contract-schema.md)
   * [How does one program RGB smart contracts?](rgb-smart-contracts/how-does-one-program-rgb-smart-contracts.md)
   * [Do you define the validity of a state transition with Schema?](rgb-smart-contracts/do-you-define-the-validity-of-a-state-transition-with-schema.md)
-* [☣️ RGB & ₿itcoin](rgb-and-bitcoin/README.md)
+* [☣ RGB & ₿itcoin](rgb-and-bitcoin/README.md)
   * [Will RGB require a fork of Bitcoin or Lightning?](rgb-and-bitcoin/will-rgb-require-a-fork-of-bitcoin-or-lightning.md)
   * [RGB testnet & mainnet](rgb-and-bitcoin/rgb-testnet-and-mainnet.md)
   * [Taproot, Schnorr signatures and RGB](rgb-and-bitcoin/taproot-schnorr-signatures-and-rgb.md)
@@ -40,7 +41,7 @@
   * [How scalable is RGB?](faq/how-scalable-is-rgb.md)
   * [Is there an RGB "Hello World" guide?](faq/is-there-an-rgb-hello-world-guide.md)
 
-## 📚 Glossary
+## 📖 Glossary
 
 * [Contracts](glossary/contracts/README.md)
   * [ContractId](glossary/contracts/contractid.md)
