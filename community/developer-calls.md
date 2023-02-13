@@ -6,12 +6,24 @@ description: Here you will find links and agendas of RGB regular dev calls
 
 ## Intro
 
-:clock5: Time and day - bi-weekly, on Wednesdays, 5pm CET\*\
-&#x20;:link: Jitsi link to join the call [https://meet.jit.si/RGBcall1](https://meet.jit.si/RGBcall1)\
-&#x20;:headphones: Calls are being recorded and uploaded to the [devcalls repository](https://github.com/LNP-BP/devcalls)\
-&#x20;  🎥  Demos and presentations are uploaded to the [YouTube channel](https://www.youtube.com/c/LNPBP/)\
+:clock5: Time and day - bi-weekly, on Thursdays, 4pm CET\*\
+:link: Jitsi link to join the call [https://meet.jit.si/RGBcall1](https://meet.jit.si/RGBcall1)\
+:headphones: Calls are being recorded and uploaded to the [devcalls repository](https://github.com/LNP-BP/devcalls)\
+🎥 Demos and presentations are uploaded to the [YouTube channel](https://www.youtube.com/c/LNPBP/)\
 \
-\*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram)
+\*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram) and [LNP/BP Telegram channel](https://t.me/lnp\_bp)
+
+## 2023-02-02
+
+**Agenda:**\
+Presentation of 🔥[**RGB Core lib v0.10 release**](https://youtu.be/VmB5SaaaABI)****\
+****1.  RGB Core lib v0.10 release & roadmap updates.\
+2\. Strict types - intro.\
+3\. Types of RGB consensus-changes (fast-forward and pushback).\
+4\. RGB for wallets - what's in v0.10 release.\
+5\. Strict types - definition and details.\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/e78c154d751421ec71bc69fdcf9aa22720ca0436), 🎥 [YouTube video](https://youtu.be/VmB5SaaaABI), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20release%20roadmap%20v0.10.pdf)
 
 ## 2022-06-29
 
