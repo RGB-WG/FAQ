@@ -22,7 +22,12 @@ Presentation of [**🔥 RGB v0.10 release. Part.II: RGB standards library**.](ht
 3\. Contract interfaces and why they are needed\
 4\. Writing custom RGB contract and issuing an asset\
 5\. Wallet developer perspective\
-6\. End-user perspective
+6\. End-user perspective\
+\
+**Demos present in the video:**\
+Writing a Schema.\
+Writing an interface.\
+Writing an RGB smart contract.
 
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/071190291ec2a17d664844f523321dc8a984ab1a), 🎥 [YouTube video](https://youtu.be/ZC0apJPbHx0), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.10%20-%20part%202.pdf)\
 
