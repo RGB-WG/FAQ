@@ -13,10 +13,24 @@ description: Here you will find links and agendas of RGB regular dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram) and [LNP/BP Telegram channel](https://t.me/lnp\_bp)
 
+## 2023-03-09
+
+**Agenda:**\
+Presentation of [**🔥 RGB v0.10 release. Part.II: RGB standards library**.](https://youtu.be/ZC0apJPbHx0)\
+1\. Overview of all new features coming in RGB v0.10.\
+2\. Anatomy of RGB smart contracts\
+3\. Contract interfaces and why they are needed\
+4\. Writing custom RGB contract and issuing an asset\
+5\. Wallet developer perspective\
+6\. End-user perspective
+
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/071190291ec2a17d664844f523321dc8a984ab1a), 🎥 [YouTube video](https://youtu.be/ZC0apJPbHx0), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.10%20-%20part%202.pdf)\
+
+
 ## 2023-02-02
 
 **Agenda:**\
-Presentation of 🔥[**RGB Core lib v0.10 release**](https://youtu.be/VmB5SaaaABI)****\
+Presentation of 🔥[**RGB v0.10 release**](https://youtu.be/VmB5SaaaABI)**.** [**Part I: RGB Core library**](https://www.youtube.com/watch?v=VmB5SaaaABI\&feature=youtu.be)****\
 ****1.  RGB Core lib v0.10 release & roadmap updates.\
 2\. Strict types - intro.\
 3\. Types of RGB consensus-changes (fast-forward and pushback).\
