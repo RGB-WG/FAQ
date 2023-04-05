@@ -13,10 +13,23 @@ description: Here you will find links and agendas of RGB regular dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram) and [LNP/BP Telegram channel](https://t.me/lnp\_bp)
 
+## 2023-03-22
+
+**Agenda:**\
+Presentation of [**🔥**](https://youtu.be/ZC0apJPbHx0)[ **RGB v0.10 release. Part III: RGB Wallet library**](https://youtu.be/33q2VBElFfA)****\
+****1. Presentation of RGB v0.10 Wallet library & overall RGB v0.10 release progress\
+2\. New invoices format. Working with PSBT.\
+3\. Rationale behind using Base58 instead of Bech32 encoding.\
+4\. How RGB transfers work. Creating & accepting transfer consignments (now with WASM support and without database connectivity!)\
+5\. RGB blackpaper preliminary announcement, updates to [rgb.tech](http://rgb.tech)\
+6\. Q\&A session\
+****\
+****🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/c0ce9f139660d0e471d748d592dd240ebc1ec7b4), 🎥 [YouTube video](https://youtu.be/33q2VBElFfA), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.10%20-%20part%203.pdf)
+
 ## 2023-03-09
 
 **Agenda:**\
-Presentation of [**🔥 RGB v0.10 release. Part.II: RGB standards library**.](https://youtu.be/ZC0apJPbHx0)\
+Presentation of [**🔥 RGB v0.10 release. Part II: RGB standards library**.](https://youtu.be/ZC0apJPbHx0)\
 1\. Overview of all new features coming in RGB v0.10.\
 2\. Anatomy of RGB smart contracts\
 3\. Contract interfaces and why they are needed\
