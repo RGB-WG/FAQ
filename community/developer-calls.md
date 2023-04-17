@@ -13,18 +13,31 @@ description: Here you will find links and agendas of RGB regular dev calls
 \
 \*sometimes time and date can be changed, follow the announcements on [RGB Telegram Group](https://t.me/rgbtelegram) and [LNP/BP Telegram channel](https://t.me/lnp\_bp)
 
+## 2023-04-11
+
+**Agenda:**\
+**Demonstration of** [**🔥**](https://youtu.be/ZC0apJPbHx0)[**RGB v0.10: installing, issuing assets, making a transfer and more.**](https://youtu.be/P5UQJAaan0I)\
+1\. RGB v0.10 release progress.\
+2\. Introducing $ rgb command.\
+3\. Demo: how to install RGB.\
+4\. What are contracts and interfaces? How mobile applications can work with them? What types of users and developers exist in the RGB world?\
+5\. Smart contract components overview.\
+6\. Demo: RGB assets transfer\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/56cdd619058fb21a44f90e805a0815a9342d46bf), 🎥 [YouTube video](https://youtu.be/P5UQJAaan0I), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.10%20-%20part%204.pdf)
+
 ## 2023-03-22
 
 **Agenda:**\
-Presentation of [**🔥**](https://youtu.be/ZC0apJPbHx0)[ **RGB v0.10 release. Part III: RGB Wallet library**](https://youtu.be/33q2VBElFfA)****\
-****1. Presentation of RGB v0.10 Wallet library & overall RGB v0.10 release progress\
+Presentation of [**🔥**](https://youtu.be/ZC0apJPbHx0)[ **RGB v0.10 release. Part III: RGB Wallet library**](https://youtu.be/33q2VBElFfA)\
+1\. Presentation of RGB v0.10 Wallet library & overall RGB v0.10 release progress\
 2\. New invoices format. Working with PSBT.\
 3\. Rationale behind using Base58 instead of Bech32 encoding.\
 4\. How RGB transfers work. Creating & accepting transfer consignments (now with WASM support and without database connectivity!)\
 5\. RGB blackpaper preliminary announcement, updates to [rgb.tech](http://rgb.tech)\
 6\. Q\&A session\
-****\
-****🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/c0ce9f139660d0e471d748d592dd240ebc1ec7b4), 🎥 [YouTube video](https://youtu.be/33q2VBElFfA), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.10%20-%20part%203.pdf)
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/c0ce9f139660d0e471d748d592dd240ebc1ec7b4), 🎥 [YouTube video](https://youtu.be/33q2VBElFfA), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20v0.10%20-%20part%203.pdf)
 
 ## 2023-03-09
 
@@ -48,8 +61,8 @@ Writing an RGB smart contract.
 ## 2023-02-02
 
 **Agenda:**\
-Presentation of 🔥[**RGB v0.10 release**](https://youtu.be/VmB5SaaaABI)**.** [**Part I: RGB Core library**](https://www.youtube.com/watch?v=VmB5SaaaABI\&feature=youtu.be)****\
-****1.  RGB Core lib v0.10 release & roadmap updates.\
+Presentation of 🔥[**RGB v0.10 release**](https://youtu.be/VmB5SaaaABI)**.** [**Part I: RGB Core library**](https://www.youtube.com/watch?v=VmB5SaaaABI\&feature=youtu.be)\
+1\.  RGB Core lib v0.10 release & roadmap updates.\
 2\. Strict types - intro.\
 3\. Types of RGB consensus-changes (fast-forward and pushback).\
 4\. RGB for wallets - what's in v0.10 release.\
@@ -74,10 +87,10 @@ Presentation of 🔥[**RGB v0.8 release. Part I**](https://youtube.com/playlist?
 7\. Terminology.\
 8\. Storm network.\
 9\. LNP/BP nodes & their architecture.\
-10\. 🔥[**RGB v0.8 Node demo**](https://youtu.be/b9zjTsrslTI)****
+10\. 🔥[**RGB v0.8 Node demo**](https://youtu.be/b9zjTsrslTI)
 
 **Questions:**\
-****1. What are the benefits in using algo stables on RGB over using them on eth-like blockchains?\
+1\. What are the benefits in using algo stables on RGB over using them on eth-like blockchains?\
 2\. If I were to isseue an rgb20 asset. Would I be able to change user balances? In which way does a contract user need to trust the issuer?\
 3.Does RGB has a contract execution cost (re: ETH and gas)?\
 4\. Do Bifrost Taproot channels use Schnorr signature-based multisig?\
@@ -89,8 +102,8 @@ Presentation of 🔥[**RGB v0.8 release. Part I**](https://youtube.com/playlist?
 ## 2022-03-22
 
 **Agenda:**\
-****Presentation of 🔥[**Deterministic bitcoin commitments and ways of how Taproot modernizes RGB.** ](https://youtu.be/7sBAtv88mSE)****\
-****1. Update - the day before rust miniscript made a first release-candidate providing full Taproot support, removing many obstacles for RGB and rust-bitcoin. Thus, we will have a sequence of releases (0.6) of all our libs that will have full Taproot support.\
+Presentation of 🔥[**Deterministic bitcoin commitments and ways of how Taproot modernizes RGB.** ](https://youtu.be/7sBAtv88mSE)\
+1\. Update - the day before rust miniscript made a first release-candidate providing full Taproot support, removing many obstacles for RGB and rust-bitcoin. Thus, we will have a sequence of releases (0.6) of all our libs that will have full Taproot support.\
 2\. Agenda to discuss:\
 a) OP\_RETURN commitment scheme,\
 b) to put all RGB commitments inside the bitcoin transaction into a single output and change the selection mechanism of determining the output in which the RGB commitment will go,\
@@ -121,7 +134,7 @@ Conclusion - it’s decided to support both OP\_RETURN and Tap\_Return.\
 ## 2022-03-09
 
 **Agenda**:\
-1\. Presentation of a 🔥[ **dedicated initiative for support of 🇺🇦Ukraine internet, mobile and mesh network infrastructure; development of alternative bitcoin- & lightning-based payment and messaging methods.**](https://youtu.be/3p7gMMNIr7I)****
+1\. Presentation of a 🔥[ **dedicated initiative for support of 🇺🇦Ukraine internet, mobile and mesh network infrastructure; development of alternative bitcoin- & lightning-based payment and messaging methods.**](https://youtu.be/3p7gMMNIr7I)
 
 2\. Presentation of the **🔥**[**2022 roadmap towards a release**](https://youtu.be/9uI-5IAlzqo), pinpointing ways of how anyone can contribute.
 
@@ -150,7 +163,7 @@ Q\&A session questions:\
 ## 2021-12-15
 
 **Agenda:**\
-During the call we had the **second part of the presentation and demonstration our** 🔥[**LNP Node**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf) **** (Lightning Network node written in Rust 🦀 ):\
+During the call we had the **second part of the presentation and demonstration our** 🔥[**LNP Node**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf) (Lightning Network node written in Rust 🦀 ):\
  - technical deep dive on the node’s internals\
 \- its interoperability with LN\
 \- its connection to c-lightning node\
@@ -166,12 +179,12 @@ Q\&A session questions:\
 ## 2021-12-08
 
 **Agenda:**\
-1\. Second part of the demo of 🔥[**Descriptor wallet**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Descriptor%20wallet%20demo%201st%20Dec%202021.pdf) **** (using Bitcoin mainnet and Taproot-enabled addresses). For more details check https://github.com/LNP-BP/descriptor-wallet\
+1\. Second part of the demo of 🔥[**Descriptor wallet**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Descriptor%20wallet%20demo%201st%20Dec%202021.pdf) (using Bitcoin mainnet and Taproot-enabled addresses). For more details check https://github.com/LNP-BP/descriptor-wallet\
 Transactions publicly made for the first time by the descriptor wallet, on **Bitcoin mainnet** **to 2 Taproot addresses:**\
 https://blockstream.info/tx/d4add20c23f46295763a1167044afa9e189cd91b68d3da99e737062b4f5e3202?expand\
 https://blockstream.info/tx/d4302e3f0bbfc2b89798fd672fb806b52b4fa45044a39dd5302fece65e229aa6?expand\
 \
-2\. First part of 🔥 **** [**LNP Node demo**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf) **** and presentation on its internals and changes that have been made to it over the past weeks.\
+2\. First part of 🔥 [**LNP Node demo**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/LNP%20Node%20demo%20December%202021.%20Part%20I%20%26%20II.pdf) and presentation on its internals and changes that have been made to it over the past weeks.\
 Q\&A session questions:\
 1\. I had problems compiling to WASM in past versions, there are some plan to compile to WASM in the future?\
 2\. For next CLI devcalls. can we have the material to compile to follow your presentation?\
@@ -214,7 +227,7 @@ Dr. Maxim Orlovsky describes 🔥[**Taproot, Bitfrost and single-use seals**](ht
 ## 2021-09-22
 
 **Agenda:** \
-****Q\&A session
+Q\&A session
 
 * Is the amount of UTXO, to which a specific RGB asset is assigned, a hidden or public information&#x20;
 * My question is about RGB Node, now is break for the updating in RGB Core and RGB-20, is going to be released updated soon? It's going to have much change respect what we have today, apart from adapting to changes in another libraries?&#x20;
@@ -268,7 +281,7 @@ Links from the call:\
 ## 2021-08-04
 
 **Agenda:**\
-Presentation of 🔥 **** [**RGB programmability**](https://youtu.be/iyDCdGQ-pTY) **-** how to design and program RGB smart contracts.\
+Presentation of 🔥 [**RGB programmability**](https://youtu.be/iyDCdGQ-pTY) **-** how to design and program RGB smart contracts.\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/9e0350cfb859e3370b1e10355e9906a24d432007), 🎥 [YouTube video](https://youtu.be/6Gj4v7ZjPwQ), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Programmability.pdf)
 
@@ -324,23 +337,23 @@ Development update and RGB Q\&A session.\
 ## 2021-06-16
 
 **Agenda:**\
-Presentation on 🔥[**Taproot status, its implementation in Rust Bitcoin and Lightning Network upgrades required for Taproot support.**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Taproot%20status%20report%20Jun%202021.pdf)****\
-****\
-****We also gave an overview of the possibilities it brings to the LNP/BP stack & ways the LNP/BP Standards Association and Pandora Core AG contribute to Taproot's development.
+Presentation on 🔥[**Taproot status, its implementation in Rust Bitcoin and Lightning Network upgrades required for Taproot support.**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Taproot%20status%20report%20Jun%202021.pdf)\
+\
+We also gave an overview of the possibilities it brings to the LNP/BP stack & ways the LNP/BP Standards Association and Pandora Core AG contribute to Taproot's development.
 
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/bf785257d083c6208896a924892f0ccf034a22e0), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Taproot%20status%20report%20Jun%202021.pdf)
 
 ## 2021-06-09
 
 **Agenda:**\
-Presentation of 🔥[**AluVM and its runtime environments**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf)****[ **** ](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf).\
+Presentation of 🔥[**AluVM and its runtime environments**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf)[ ](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/AluVM.pdf).\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/47d8f0186e842b7ce92df607eff158dd12a5a05a), 🎥 [YouTube video](https://youtu.be/brfWta7XXFQ), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf)
 
 ## 2021-06-01
 
 **Agenda:**\
-1\. Presentation on 🔥 **** [**Single-use seals concept**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf), how it is used in RGB.\
+1\. Presentation on 🔥 [**Single-use seals concept**](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf), how it is used in RGB.\
 2\. Brief discussion on DID held as an example of how single-use seals can be applied there (with [Christopher Allen](https://twitter.com/ChristopherA) from Blockchain Commons/Blockstream joining us).\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/41f9b6cedc08f0644e1dd9c9cc2d8a55ad01a497), 🎥 [YouTube video](https://youtu.be/gGPLYfWOb\_8), 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/Single-use-seals.pdf)
@@ -408,9 +421,9 @@ Community-driven call, where community members tried to install [RGB Node](https
 ## 2021-04-07
 
 **Agenda:**\
-Presentation on 🔥[ **RGB Identity, Naming and Reputation**](https://youtu.be/swtr7pwWUhY)****\
-****\
-****🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/6e110949a57fd68c1316dfc0a56ff53ba099d5dd), 🎥 [YouTube videos](https://youtu.be/swtr7pwWUhY) 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Digital%20Identity%2C%20Naming%20%26%20Reputation.pdf)
+Presentation on 🔥[ **RGB Identity, Naming and Reputation**](https://youtu.be/swtr7pwWUhY)\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/6e110949a57fd68c1316dfc0a56ff53ba099d5dd), 🎥 [YouTube videos](https://youtu.be/swtr7pwWUhY) 📝 [Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20Digital%20Identity%2C%20Naming%20%26%20Reputation.pdf)
 
 ## 2021-03-31
 
@@ -428,9 +441,9 @@ Presentation on 🔥[ **RGB Identity, Naming and Reputation**](https://youtu.be/
 3\. Virtualisation of RGB validation rules:\
 \- What is RGB client-side validation?\
 \- Schema & scripting\
-\- **Introduction of** 🔥 **** [**AluVM and Contractum language**](https://www.youtube.com/watch?v=JmKNyOMv68I\&ab\_channel=LNPBPStandardsAssociation)****\
-****\
-****🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/48b2a9bfea0cdc6b758f93973ea6cbd1d54f0174), 🎥 [YouTube videos](https://youtu.be/JmKNyOMv68I) 📝 [Presentation slides](https://github.com/LNP-BP/Presentations/blob/master/Presentation%20slides/RGB%20VM%20%26%20scripting.pdf)
+\- **Introduction of** 🔥 [**AluVM and Contractum language**](https://www.youtube.com/watch?v=JmKNyOMv68I\&ab\_channel=LNPBPStandardsAssociation)\
+\
+🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/48b2a9bfea0cdc6b758f93973ea6cbd1d54f0174), 🎥 [YouTube videos](https://youtu.be/JmKNyOMv68I) 📝 [Presentation slides](https://github.com/LNP-BP/Presentations/blob/master/Presentation%20slides/RGB%20VM%20%26%20scripting.pdf)
 
 ## 2021-03-24
 
@@ -515,7 +528,7 @@ RGB Q\&A\
 2\. If you lend your bitcoin to some financial institution and then something happens to it, can you use the RGB-bearer right to prove that you are still the holder of bitcoin and get your funds back?
 
 DEMO\
-Demo of a command-line :fire:****[**MyCitadel node**](https://github.com/mycitadel/mycitadel-node) **** - the wallet's node and command-line interface of it.  🎥 [YouTube video](https://youtu.be/d0MjmcCmegs)\
+Demo of a command-line :fire:[**MyCitadel node**](https://github.com/mycitadel/mycitadel-node) - the wallet's node and command-line interface of it.  🎥 [YouTube video](https://youtu.be/d0MjmcCmegs)\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/36f7962e18d53ac0be88b4a88af10449206b89f7)
 
@@ -523,7 +536,7 @@ Demo of a command-line :fire:****[**MyCitadel node**](https://github.com/mycitad
 
 **Agenda:** \
 RGB QA session\
-****Issues from **** [https://github.com/orgs/rgb-org/projects/11](https://github.com/orgs/rgb-org/projects/11)
+Issues from [https://github.com/orgs/rgb-org/projects/11](https://github.com/orgs/rgb-org/projects/11)
 
 1. Properly handle result from 'validate' request to Stash daemon - [https://github.com/rgb-org/rgb-node/issues/132](https://github.com/rgb-org/rgb-node/issues/132)
 2. Asset state transition node ID mutability
@@ -580,7 +593,7 @@ RGB QA session\
 ## 2021-01-27
 
 **Agenda:**\
-Presentation on :fire:****[**RGB Wallets integration**](https://www.youtube.com/playlist?list=PLG6aOZYXJo-\_N2BA-v2MRKoo2u7erJ7SP), that covers:\
+Presentation on :fire:[**RGB Wallets integration**](https://www.youtube.com/playlist?list=PLG6aOZYXJo-\_N2BA-v2MRKoo2u7erJ7SP), that covers:\
 \- diagrams explaining how the wallet part of the business logic, storage etc. should be done in order to use RGB SDK;\
 \- PSBT structure required for RGB work with hardware wallet;\
 \- universal invoices updates;\
@@ -596,8 +609,8 @@ Presentation on :fire:****[**RGB Wallets integration**](https://www.youtube.com/
 \- Updates on refactoring LNP/BP Core Lib and info on new crates (wallet descriptors, RGB Core, LNP Core, Internet2)\
 \- Moving repositories into project-specific github orgs (RGB-org, Internet2-org)\
 \- v0.3.0 release of LNP/BP Core Lib, RGB Core Lib & RGB Node\
-\- New developments with LNP Core & BOLT-7 by [**@raj**](https://github.com/raj)****\
-****- Proposed architecture for mobile wallets using RGB+LNP Node\
+\- New developments with LNP Core & BOLT-7 by [**@raj**](https://github.com/raj)\
+\- Proposed architecture for mobile wallets using RGB+LNP Node\
 \- RGB/LN invoicing protocol: aspects related to mobile payment\
 \
 2\. Pending issues to discuss:\
@@ -621,8 +634,8 @@ Presentation on :fire:****[**RGB Wallets integration**](https://www.youtube.com/
 \- BP Node: indexing node for bitcoin blockchain replacing need in Electrum\
 \- Initial work on implementation of Lightspeed, Storm & Prometheus protocols\
 \
-2\. :fire: [**Presentation of the LNP/BP Core Lib BP module**](https://youtu.be/l5zs0smOXps)****\
-****🎥  [YouTube video](https://youtu.be/l5zs0smOXps) and 📝 [Presentation slides](https://github.com/LNP-BP/FAQ/blob/master/Presentation%20slides/LNP:BP%20Core%20Library%20%E2%80%93%20BP%20module.pdf)\
+2\. :fire: [**Presentation of the LNP/BP Core Lib BP module**](https://youtu.be/l5zs0smOXps)\
+🎥  [YouTube video](https://youtu.be/l5zs0smOXps) and 📝 [Presentation slides](https://github.com/LNP-BP/FAQ/blob/master/Presentation%20slides/LNP:BP%20Core%20Library%20%E2%80%93%20BP%20module.pdf)\
 \
 3\. Discussion:\
 \- Updates on related projects: rust-bitcoin & rust-miniscript\
@@ -643,15 +656,15 @@ Presentation on :fire:****[**RGB Wallets integration**](https://www.youtube.com/
 \- [RGB Node v0.2](https://github.com/LNP-BP/rgb-node/releases/tag/v0.2.0) release\
 \- [librgb v0.2 release candidate](https://github.com/LNP-BP/rgb-sdk/tree/master/librgb)\
 \- RGB SDK updates\
-3\. 💥 **** [**Universal LNP/BP invoices**](https://youtu.be/R1QudCywRGk) standard proposal presentation \
+3\. 💥 [**Universal LNP/BP invoices**](https://youtu.be/R1QudCywRGk) standard proposal presentation \
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/e230c3f8a8ba08d1d1019852cb85935bc6cc5a2d),  🎥 [YouTube video](https://youtu.be/R1QudCywRGk) and 📝 [Presentation slides](https://github.com/LNP-BP/FAQ/blob/master/Presentation%20slides/Universal%20LNP-BP%20invoices.pdf)&#x20;
 
 ## 2020-12-09
 
 **Agenda:**\
-1\. Release of [**v0.2 of LNP/BP Core Library**](https://github.com/LNP-BP/rust-lnpbp/releases/tag/v0.2.0) **** 🔥\
-****2. How will Taproot affect RGB?\
+1\. Release of [**v0.2 of LNP/BP Core Library**](https://github.com/LNP-BP/rust-lnpbp/releases/tag/v0.2.0) 🔥\
+2\. How will Taproot affect RGB?\
 3\. Difference between Bitcoin Pro and MyCitadel wallet\
 4\. WASM & bindings of RGB SDK\
 5\. [Issue #31](https://github.com/LNP-BP/lnp-node/issues/31) - channel data inconsistency between peers\
@@ -662,7 +675,7 @@ Presentation on :fire:****[**RGB Wallets integration**](https://www.youtube.com/
 ## 2020-12-02
 
 **Agenda:**\
-1\. Presentation of [**Bitcoin Pro**](https://github.com/pandoracore/bitcoin-pro) **** 🔥\
+1\. Presentation of [**Bitcoin Pro**](https://github.com/pandoracore/bitcoin-pro) 🔥\
 2\. Technical discussion\
 [\
 ](https://github.com/LNP-BP/devcalls/commit/6eb4b4c5d69707f4f589b0ca42721df33db0da2d)🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/6eb4b4c5d69707f4f589b0ca42721df33db0da2d) and 🎥 [YouTube videos](https://youtube.com/playlist?list=PLG6aOZYXJo-99Mx-RTkmw3o5wA7PW\_gQl)
@@ -730,8 +743,8 @@ Presentation of the [**LNP Node 0.1 Alpha 1**](https://github.com/LNP-BP/lnp-nod
 ## 2020-10-21
 
 **Agenda:**\
-****\
-**** **Releases**\
+\
+&#x20;**Releases**\
 &#x20;[Roadmap](https://github.com/LNP-BP/devcalls/issues/29)\
 Tracking [RGB Core release](https://github.com/LNP-BP/devcalls/issues/26)
 
@@ -974,7 +987,7 @@ RGB-20 Schema update:\
 **Agenda:**
 
 **I.Ongoing developments**\
-****1. Last beta 4 pre-release before RC1\
+1\. Last beta 4 pre-release before RC1\
 2\. Invoicing protocol: \
 \- LNURL downsides\
 \- new LN developments (lni, lno, lnr by Rusty Russel)\
@@ -1008,4 +1021,3 @@ RGB-20 Schema update:\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/c06e73fe0ca869c8e6fd24adadf0f87799af02b8)
 
-****
