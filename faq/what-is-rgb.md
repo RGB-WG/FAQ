@@ -1,8 +1,8 @@
 # What is RGB?
 
-**RGB** is client-side validated state and smart contracts system operating on Layer 2 and 3 of Bitcoin ecosystem. 
+**RGB** is client-side validated state and smart contracts system operating on Layer 2 and 3 of Bitcoin ecosystem.
 
-* RGB is **not a token protocol.** Though issuance and management of highly scalable, programmable and private assets of different sort is possible with RGB, it can be applied in many indusrtied far beyond financial world.
+* RGB is **not a token protocol.** Though issuance and management of highly scalable, programmable and private assets of different sort is possible with RGB, it can be applied in many industries far beyond financial world.
 * Works with **Lightning Network**
 * **No on-chain usage nor trackable footprint** because of client-validated paradigm
 * **Scales** independently from Bitcoin timechain
@@ -35,4 +35,3 @@ Additionally to rights \(defined by RGB but controlled by Bitcoin script\), RGB 
 1. Bitcoin data structures, for instance UTXO
 2. RGB data structures, for instance state transition, genesis, owned right assignment, state data, metadata
 3. RGB _concepts_, which are not always directly mapped to \(1\) and \(2\), which are “single-use-seal”, “owned right”
-
