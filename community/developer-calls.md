@@ -91,7 +91,7 @@ Presentation of 🔥[**RGB v0.8 release. Part I**](https://youtube.com/playlist?
 
 **Questions:**\
 1\. What are the benefits in using algo stables on RGB over using them on eth-like blockchains?\
-2\. If I were to isseue an rgb20 asset. Would I be able to change user balances? In which way does a contract user need to trust the issuer?\
+2\. If I were to issue an rgb20 asset. Would I be able to change user balances? In which way does a contract user need to trust the issuer?\
 3.Does RGB has a contract execution cost (re: ETH and gas)?\
 4\. Do Bifrost Taproot channels use Schnorr signature-based multisig?\
 5\. What intrinsics are available to AluVM contracts? Are timelocks possible in AluVM? Might be useful for dynamic NFTs.\
@@ -143,7 +143,7 @@ Conclusion - it’s decided to support both OP\_RETURN and Tap\_Return.\
 \- algorithmical stable coin use case\
 \- Since hashrate follows price, could hashrate or difficulty be used to peg a stablecoin? \
 \- Are there any plans for a daemon management utility for desktop or servers (without needing systemd)? \
-\- We tried to derive from the 'seed phrase' the bitcoin addresses (from descrptor wallet), but we couldn't find out which derivation path was used.  So question: how to calculate the correct descriptor wallet addresses based on the seed? \
+\- We tried to derive from the 'seed phrase' the bitcoin addresses (from descriptor wallet), but we couldn't find out which derivation path was used.  So question: how to calculate the correct descriptor wallet addresses based on the seed? \
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/1b64099503c2ec5cb7bcec149fd213daf0ae82a7), 🎥 [YouTube video](https://youtu.be/9uI-5IAlzqo), 📝[ Presentation slides](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20roadmap%20to%20release%202022.pdf)
 
@@ -232,9 +232,9 @@ Q\&A session
 * Is the amount of UTXO, to which a specific RGB asset is assigned, a hidden or public information&#x20;
 * My question is about RGB Node, now is break for the updating in RGB Core and RGB-20, is going to be released updated soon? It's going to have much change respect what we have today, apart from adapting to changes in another libraries?&#x20;
 * What is the link between AluVM and Contractum?&#x20;
-* AluVM will be included on the next reales and be required to run RGB? How RGB-20 is impacted? Can we say AluVM is the current way to do client-side validation?&#x20;
+* AluVM will be included on the next release and be required to run RGB? How RGB-20 is impacted? Can we say AluVM is the current way to do client-side validation?&#x20;
 * Does Bitcoin Pro have to be updated for AluVM?&#x20;
-* In your opinion, what would be the better way to implement LLVM IR to AluVM bytecode? LLVM IR compiling to bytecode or (as you mentionned in a previous call) LLVM IR translated into ALU asm via parser? Or other way like o a Rust pest project? (LLVM IR -> Aluasm). Same questions for WASM - AluVM&#x20;
+* In your opinion, what would be the better way to implement LLVM IR to AluVM bytecode? LLVM IR compiling to bytecode or (as you mentioned in a previous call) LLVM IR translated into ALU asm via parser? Or other way like o a Rust pest project? (LLVM IR -> Aluasm). Same questions for WASM - AluVM&#x20;
 * Can RGB be compatible with ZK-Rollups? I understand Roll-up is not preferred. But is it viable as an immediate interim solution to bring already built solutions to RGB before pure client side validation is built?&#x20;
 * Is the unowned state is still a subject? What is it exactly?&#x20;
 * What is a valency in the context of RGB?&#x20;
@@ -685,7 +685,7 @@ Presentation on :fire:[**RGB Wallets integration**](https://www.youtube.com/play
 **Agenda:**\
 1\. Updates from the call with Ledger\
 2\. [RGB-21 Collectible Schema](https://github.com/LNP-BP/LNPBPs/blob/master/lnpbp-0021.md):\
-&#x20;    \- Unique tokens & token-specfic data\
+&#x20;    \- Unique tokens & token-specific data\
 &#x20;    \- Issuance control\
 &#x20;    \- Generic token data, internal or external, in different formats\
 &#x20;    \- Engravings (and why Schema subclassing is required)\
@@ -774,7 +774,7 @@ RGB SDK [https://github.com/LNP-BP/rgb-sdk](https://github.com/LNP-BP/rgb-sdk) i
 
 ![](../.gitbook/assets/96725323-0f31e780-13b1-11eb-8875-4d1581a1a59a.png)
 
-* Universal protocol for node oprations (RGB, LNP, Bifrost ...): node ids, compatible messaging system & message ids (see details in last call agenda) [https://github.com/LNP-BP/LNPBPs/issues/55](https://github.com/LNP-BP/LNPBPs/issues/55). Explanation on RGB peer network and Bitfrost peer network as a part of Lightning peer network. Considerations and discussions.
+* Universal protocol for node operations (RGB, LNP, Bifrost ...): node ids, compatible messaging system & message ids (see details in last call agenda) [https://github.com/LNP-BP/LNPBPs/issues/55](https://github.com/LNP-BP/LNPBPs/issues/55). Explanation on RGB peer network and Bitfrost peer network as a part of Lightning peer network. Considerations and discussions.
 * Generalized Lightning networking on top of alternative transports (Websocket, HTTP overlay, SMTP, messaging) and RPC stack with ZMQ et al
 * Ongoing work on structuring Internet2 stack as a set of Lightning related networking protocols on top of Tor
 
@@ -782,21 +782,21 @@ RGB SDK [https://github.com/LNP-BP/rgb-sdk](https://github.com/LNP-BP/rgb-sdk) i
 
 **Wallet integration**
 
-* Explanations on matters related to DBC tweaks of public keys: lessons learned from Liquid [https://github.com/LNP-BP/LNPBPs/issues/69](https://github.com/LNP-BP/LNPBPs/issues/69) Excerpt: _After discussion with Andrew Poelstra it became obvious that the previous decision of storing public key tweak information within PSBT as a single value (_[_https://github.com/LNP-BP/rust-lnpbp/issues/86_](https://github.com/LNP-BP/rust-lnpbp/issues/86)_) will be insecure and incompatible with hardware signing units, wallets or airgapped solutions. The problems is that the device must be able to verify what is hidden behind the tweak, otherwise it will be possible for a malware to change the tweak in such a way that it will substitue the underlying state transition with some other (assigning assets to the thief-controlled UTXOs) or, even, apply some taproot-based alternative spending conditions._
+* Explanations on matters related to DBC tweaks of public keys: lessons learned from Liquid [https://github.com/LNP-BP/LNPBPs/issues/69](https://github.com/LNP-BP/LNPBPs/issues/69) Excerpt: _After discussion with Andrew Poelstra it became obvious that the previous decision of storing public key tweak information within PSBT as a single value (_[_https://github.com/LNP-BP/rust-lnpbp/issues/86_](https://github.com/LNP-BP/rust-lnpbp/issues/86)_) will be insecure and incompatible with hardware signing units, wallets or airgapped solutions. The problems is that the device must be able to verify what is hidden behind the tweak, otherwise it will be possible for a malware to change the tweak in such a way that it will substitute the underlying state transition with some other (assigning assets to the thief-controlled UTXOs) or, even, apply some taproot-based alternative spending conditions._
 * PSBT-based workflows [https://github.com/LNP-BP/LNPBPs/issues/71](https://github.com/LNP-BP/LNPBPs/issues/71)
 * Simple APIs for read-only access [https://github.com/LNP-BP/rgb-node/issues/84](https://github.com/LNP-BP/rgb-node/issues/84)
 
 **Protocol future**
 
 * NFT transfers in generalized LN with channel factories
-* UDP hole punchng discussion results [https://github.com/LNP-BP/LNPBPs/issues/39](https://github.com/LNP-BP/LNPBPs/issues/39) and overall UDP support + Dazaar/Hypercore integration
+* UDP hole punching discussion results [https://github.com/LNP-BP/LNPBPs/issues/39](https://github.com/LNP-BP/LNPBPs/issues/39) and overall UDP support + Dazaar/Hypercore integration
 * Sign to contract instead of pay to contract commitments [https://github.com/LNP-BP/LNPBPs/issues/65](https://github.com/LNP-BP/LNPBPs/issues/65)
 * MW-like Pedensen commitment aggregation for the historical data [https://github.com/LNP-BP/LNPBPs/issues/57](https://github.com/LNP-BP/LNPBPs/issues/57)
-* Merge-mined chain allowing excellend scalability with single-key-per-block concept
+* Merge-mined chain allowing excellent scalability with single-key-per-block concept
 
 **Related updates from other projects**
 
-* Proposals ([first](https://github.com/lightningnetwork/lightning-rfc/pull/755), [second](https://github.com/lightningnetwork/lightning-rfc/pull/759)) for onion messaging BOLT extensions from Rusty Russel for new extenstions allowing non-payment (i.e. generic) messaging.
+* Proposals ([first](https://github.com/lightningnetwork/lightning-rfc/pull/755), [second](https://github.com/lightningnetwork/lightning-rfc/pull/759)) for onion messaging BOLT extensions from Rusty Russel for new extensions allowing non-payment (i.e. generic) messaging.
 * Simplicity [WIP branch](https://github.com/ElementsProject/elements/tree/simplicity) in elements/liquid beta
 * Schnorr signature implementation [PR](https://github.com/rust-bitcoin/rust-secp256k1/pull/237) for rust-secp256k1 by Tibo from Digital garage.
 
@@ -841,8 +841,8 @@ RGB-20 Schema update:\
   * Containers on DockerHub: [https://hub.docker.com/u/lnpbp](https://hub.docker.com/u/lnpbp)
 * Readiness of LNP/BP Core Library first release (v0.1):
   * &#x20;Test coverage > 2/3
-  * &#x20;Advanced continous integration
-  * &#x20;Moved buisness logic from RGB Node to the core lib
+  * &#x20;Advanced continuous integration
+  * &#x20;Moved business logic from RGB Node to the core lib
 * Updates on RGB security audit started last week.
 
 **Decisions taken throughout the week & implemented**
@@ -877,7 +877,7 @@ RGB-20 Schema update:\
   * &#x20;LNPBP2 update is WIP
   * &#x20;implementation: [https://github.com/LNP-BP/rust-lnpbp/pull/125](https://github.com/LNP-BP/rust-lnpbp/pull/125)
 * PSBT custom keys: one removed (fee), the second one, keeping tweaking factor is replaced with non-proprietary; which is planned to be added to BIP-174 standard
-* Universal protocol for node oprations (RGB, LNP, Bifrost ...): node ids, compatible messaging system & message ids (see details in last call agenda) [https://github.com/LNP-BP/LNPBPs/issues/55](https://github.com/LNP-BP/LNPBPs/issues/55)
+* Universal protocol for node operations (RGB, LNP, Bifrost ...): node ids, compatible messaging system & message ids (see details in last call agenda) [https://github.com/LNP-BP/LNPBPs/issues/55](https://github.com/LNP-BP/LNPBPs/issues/55)
 * UDP hole punchng discussion results [https://github.com/LNP-BP/LNPBPs/issues/39](https://github.com/LNP-BP/LNPBPs/issues/39)
 
 **Protocol future**
@@ -885,11 +885,11 @@ RGB-20 Schema update:\
 * NFT transfers in generalized LN with channel factories
 * Sign to contract instead of pay to contract commitments [https://github.com/LNP-BP/LNPBPs/issues/65](https://github.com/LNP-BP/LNPBPs/issues/65)
 * MW-like Pedensen commitment aggregation for the historical data [https://github.com/LNP-BP/LNPBPs/issues/57](https://github.com/LNP-BP/LNPBPs/issues/57)
-* Merge-mined chain allowing excellend scalability with single-key-per-block concept
+* Merge-mined chain allowing excellent scalability with single-key-per-block concept
 
 **Related updates from other projects**
 
-* Proposals ([first](https://github.com/lightningnetwork/lightning-rfc/pull/755), [second](https://github.com/lightningnetwork/lightning-rfc/pull/759)) for onion messaging BOLT extensions from Rusty Russel for new extenstions allowing non-payment (i.e. generic) messaging.
+* Proposals ([first](https://github.com/lightningnetwork/lightning-rfc/pull/755), [second](https://github.com/lightningnetwork/lightning-rfc/pull/759)) for onion messaging BOLT extensions from Rusty Russel for new extensions allowing non-payment (i.e. generic) messaging.
 * Simplicity [WIP branch](https://github.com/ElementsProject/elements/tree/simplicity) in elements/liquid beta
 * Schnorr signature implementation [PR](https://github.com/rust-bitcoin/rust-secp256k1/pull/237) for rust-secp256k1 by Tibo from Digital garage.
 
@@ -911,12 +911,12 @@ RGB-20 Schema update:\
       * In RGB we can make keys truly random since we know payment txo anyway from the consignment
     * PSBT-based (can be used for Bitcoin!)
     * Channel (LN)-based: not the same as BOLT-11, but just a node id, address and routing hints
-  * "Invoce" layer (current example - BOLT-11, parts of the proposed [BOLT-12/13](https://github.com/lightningnetwork/lightning-rfc/pull/798))
+  * "Invoice" layer (current example - BOLT-11, parts of the proposed [BOLT-12/13](https://github.com/lightningnetwork/lightning-rfc/pull/798))
     * Just an LN message serialized into Bech32 format!
     * Now LN messages can be send over non-interactive or high-latency networks (mesh, satellite, SMTP/mail, messengers/tweets)
     * Very extensible: TLVs, new message types. Making new invoice type is just like defining new LN message: decentralized
   * "Interactive payment protocol" layer (current examples - BIP70, LNURL, BOLT12 from above)
-    * Potentially should work with any invoice and data type (it is the case for LNURL already; will try to direct BOLT12 into this; BIP70 is depricated anyway)
+    * Potentially should work with any invoice and data type (it is the case for LNURL already; will try to direct BOLT12 into this; BIP70 is deprecated anyway)
     * We will have Bifrost for RGB-related interactivity; it will utilize LN messaging format so complete invoice data workflow (offer/request/invoice/ failback/alternative) may fit into bech32-encoded strings as described below:
 * Bech32 encodings for invoicing & RGB-related data entities
   * Any message can be serialized with `<4hex>_lnp1bechdata`, or for known formats `<id>[_<4hex>_lnp]1bechdata` (this is interoperable with Russel new invoices), for instance `inv1invoicedata` can be a universal invoice message.
@@ -997,7 +997,7 @@ RGB-20 Schema update:\
 \
 3\. PSBT development: \
 \- main format for data storage & exchange\
-\- brining rust-bitcoin libraries closer to full implementation\
+\- bringing rust-bitcoin libraries closer to full implementation\
 \- Schema/Genesis: versioning, chain params\
 \- Implications: DEX outside RGB in LN\
 \
@@ -1020,4 +1020,3 @@ RGB-20 Schema update:\
 \-  [LNP-BP/rust-lnpbp#104](https://github.com/LNP-BP/rust-lnpbp/pull/104)\
 \
 🎧 [Audio recordings](https://github.com/LNP-BP/devcalls/commit/c06e73fe0ca869c8e6fd24adadf0f87799af02b8)
-

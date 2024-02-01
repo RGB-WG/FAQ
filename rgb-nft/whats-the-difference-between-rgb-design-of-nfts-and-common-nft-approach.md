@@ -1,7 +1,7 @@
 # What's the difference between RGB design of NFTs and common NFT approach?
 
 In general, the way [DRM](https://en.wikipedia.org/wiki/Digital_rights_management) \(Digital Rights management\) system works today is very far from individual/author/owner-centric, leading to appearance of huge industry of distributors and labels _and_ impossibility to _buy into ownership_ of some certain content.   
-  
+
 So the assumption is, that removing the ability to _prevent_ copyright technically \(current DRM\) and use instead economical incentives is much more sustainable and will lead to the healthier ecosystem. That is what can be expected from the RGB NTF design.
 
 **So, the change with RGB \(in legal terms\) is:**
@@ -13,5 +13,4 @@ This indeed does not provide _copy_ protection at technical level. But what it d
 
 That is weaker publisher guarantees comparing to DRM, but stronger comparing to any other NFT or alternative out there \(and the same strong guarantees as with software licenses back in old days\).
 
-At the end of the day, arguably, there is a probability that if we take game theory & economy into account \(and not only technical means\) that will still give _more_ profit to the content producers because we remove intermediaries \(lables/distributors\) taking 90% of profitability from the equation + provide economic incentives to pay to owners, and not cheating content users.
-
+At the end of the day, arguably, there is a probability that if we take game theory & economy into account \(and not only technical means\) that will still give _more_ profit to the content producers because we remove intermediaries \(labels/distributors\) taking 90% of profitability from the equation + provide economic incentives to pay to owners, and not cheating content users.
