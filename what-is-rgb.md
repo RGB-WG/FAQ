@@ -76,7 +76,7 @@ Thus, by their abilities RGB smart contracts go beyond what is possible with Eth
 
 ## History & Acknowledgements
 
-RGB was originally envisioned in 2016 by _Giacomo Zucco_ (**BHB Network**) as a "non-blockchain based asset system" basing on earlier ideas of _Peter Todd_ about client-side-validation and single-use-seals and implemented as original MVP around 2017 by BHB Network with support from **Poseidon Group**. Since 2019, _Dr Maxim Orlovsky_, **Pandora Core AG**, acts as the main designer and lead contributor to RGB protocol, designing and implementing more than 95% of its current code and underlying standards. Since 2019 RGB was restructured and re-thought from scratch by him as a generic form of computing and confidential smart contracting system. This refactoring happened as a part of **LNP/BP Standards** effort, created in 2019 and initially funded by **iFinex Inc** and **Fulgur Ventures** (2019H2-2020H1), and, later (from 2020H2), by **Pandora Core AG**, personal funds of _Dr Maxim Orlovsky_ and community donations. A lot of input into RGB design, re-design and protocol peer-review came from a broader community, which included contributions from more than 50 people and organizations, including:
+RGB was originally envisioned in 2016 by _Giacomo Zucco_ (**BHB Network**) as a "non-blockchain based asset system" basing on earlier ideas of _Peter Todd_ about client-side-validation and single-use-seals and implemented as original MVP around 2017 by BHB Network with support from **Poseidon Group**. Since 2019, _Dr Maxim Orlovsky_, **Pandora Prime AG**, acts as the main designer and lead contributor to RGB protocol, designing and implementing more than 95% of its current code and underlying standards. Since 2019 RGB was restructured and re-thought from scratch by him as a generic form of computing and confidential smart contracting system. This refactoring happened as a part of **LNP/BP Standards** effort, created in 2019 and initially funded by **iFinex Inc** and **Fulgur Ventures** (2019H2-2020H1), and, later (from 2020H2), by **Pandora Prime AG**, personal funds of _Dr Maxim Orlovsky_ and community donations. A lot of input into RGB design, re-design and protocol peer-review came from a broader community, which included contributions from more than 50 people and organizations, including:
 
 * _Christophe Diederichs_,&#x20;
 * _Cláudio de Castro,_
@@ -94,14 +94,14 @@ RGB was originally envisioned in 2016 by _Giacomo Zucco_ (**BHB Network**) as a 
 * _Rajar Shimaitra,_
 * _Rene Pickhardt_,&#x20;
 * _Reza Bandegi_,&#x20;
-* [_Sosthene_](https://github.com/Sosthene00)__
+* [_Sosthene_](https://github.com/Sosthene00)
 * _Stefano Pellegrini_,&#x20;
-* [_yojoe_](https://github.com/yojoe)__
+* [_yojoe_](https://github.com/yojoe)
 * _ZmnSCPxj_,&#x20;
 * _Zoe Faltiba,_
-* __[_zkao_](https://github.com/zkao)
+* [_zkao_](https://github.com/zkao)
 
-The community and contribution management since 2019 was performed by _Olga Ukolova_, Pandora Core AG.
+The community and contribution management since 2019 was performed by _Olga Ukolova_, Pandora Prime AG.
 
 Many input into protocol design ideas and suggestions came from personal conversations of Dr Maxim Orlovsky and Giacomo Zucco with notable cryptographers, specialists on distributed systems and game theorists, including:
 
